@@ -1,21 +1,21 @@
-CMSC 386 Capstone
-=================
+CIS 320 Advanced Web Development and Security
+=============================================
 
-.. include:: ../elements/CMSC-386.rst
+.. include:: ../elements/CIS-320.rst
 
 .. include:: ../elements/craven_instructor_info.rst
 
 Schedule
 --------
 
-There is no formal meeting time for CIS 386. Class is conducted on-line.
+Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
 
 .. include:: ../elements/2017_sp_calendar.rst
 
 Student Assessment
 ------------------
 
-.. include:: ../elements/assignment_submission.rst
+.. include:: ../elements/assignment_submission_git_and_server.rst
 
 .. include:: ../elements/grading.rst
 
@@ -23,26 +23,26 @@ Student Assessment
 
 .. include:: ../elements/late_work_policy.rst
 
-.. include:: ../elements/attendance_online.rst
+.. include:: ../elements/attendance_in_person.rst
 
 Assignments
 ^^^^^^^^^^^
 
-* Monday, Jan 16 at 8 am: Report 1
-* Monday, Jan 23 at 8 am: Report 2
-* Monday, Jan 30 at 8 am: Report 3
-* Monday, Feb 06 at 8 am: Report 4
-* Monday, Feb 13 at 8 am: Report 5
-* Monday, Feb 20 at 8 am: Report 6
-* Monday, Feb 27 at 8 am: Report 7
+* Monday, Jan 16 at 8 am: Assignment 1 -
+* Monday, Jan 23 at 8 am: Assignment 2 -
+* Monday, Jan 30 at 8 am: Assignment 3 -
+* Monday, Feb 06 at 8 am: Assignment 4 -
+* Monday, Feb 13 at 8 am: Assignment 5 -
+* Monday, Feb 20 at 8 am: Assignment 6 -
+* Monday, Feb 27 at 8 am: Assignment 7 -
 * Monday, Mar 06: Spring Break - No assignment
-* Monday, Mar 13 at 8 am: Report 8
-* Monday, Mar 20 at 8 am: Report 9
-* Monday, Mar 27 at 8 am: Report 10
-* Monday, Apr 03 at 8 am: Report 11
-* Monday, Apr 10 at 8 am: Report 12
-* Monday, Apr 17 at 8 am: Report 13
-* Monday, Apr 24 at 8 am: Report 14
+* Monday, Mar 13 at 8 am: Assignment 8 -
+* Monday, Mar 20 at 8 am: Assignment 9 -
+* Monday, Mar 27 at 8 am: Assignment 10 -
+* Monday, Apr 03 at 8 am: Assignment 11 -
+* Monday, Apr 10 at 8 am: Assignment 12 -
+* Monday, Apr 17: Work on final project
+* Monday, Apr 24 at 8 am: Assignment 13 -
 
 Course Assessment
 -----------------
@@ -59,7 +59,7 @@ Student Learning Outcomes for the Major
 .. include:: ../elements/CIS-SLO-2.rst
 .. include:: ../elements/CIS-SLO-3.rst
 
-.. include:: ../elements/contact_time_386.rst
+.. include:: ../elements/contact_time_385.rst
 
 Policies and Procedures
 -----------------------

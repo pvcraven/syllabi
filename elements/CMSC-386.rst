@@ -18,3 +18,5 @@ Course
       information technologies.
     * Course SLO #3 design, implement, and modify normalized database systems.
       Graduates will also know how to maintain and manage database systems.
+
+* Textbook: None

@@ -23,7 +23,7 @@ Student Assessment
 
 .. include:: ../elements/late_work_policy.rst
 
-.. include:: ../elements/online_attendance.rst
+.. include:: ../elements/attendance_online.rst
 
 Assignments
 ^^^^^^^^^^^
@@ -60,13 +60,7 @@ Student Learning Outcomes for the Major
 .. include:: ../elements/CMSC-SLO-3.rst
 .. include:: ../elements/CMSC-SLO-4.rst
 
-Contact Hours and Learning Time
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-* Assignments 1-12 are designed to take approximately ten hours to complete.
-* Assignment 13 is designed to take approximately 20 hours to complete.
-* About one hour is expected to review assignments 1-13 after they are graded.
-* This totals 143 hours worth of learning time.
+.. include:: ../elements/contact_time_385.rst
 
 Policies and Procedures
 -----------------------

@@ -1,0 +1,20 @@
+Course
+------
+
+* Course title:
+  CIS 320 Advanced Web Development and Security
+* Catalog course description:
+  This class covers server and client side programming and security. Students
+  learn to create, read, update, and delete records in a database through a
+  website. Students learn how manage security with data validation and
+  encoding, session management, encryption, hashing, and understanding common
+  security vulnerabilities. Students will learn to fine, use, and integrate
+  common code libraries and applications into their website. Prerequisites:
+  CIS 120, CMSC 150, and CIS 255. WRITCOMM. Four credits. Offered every spring
+  of odd numbered years.
+
+* Course level student learning objectives (SLOs):
+
+    * TODO
+
+* Textbook: None
