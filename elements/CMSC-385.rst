@@ -1,0 +1,27 @@
+Course
+------
+
+* Course title:
+  CMSC Capstone
+* Catalog course description:
+  Students must work on either a significant research project, a significant software
+  development project, or a development project as part of an internship. Prerequisite:
+  Completion of at least one 300-level CmSc or CIS course, submission of a proposal,
+  and senior standing. Four credits. Offered spring semesters.
+
+* Course level student learning objectives (SLOs):
+
+    * Course SLO #1 design, implement, and analyze computational algorithms.
+    * Course SLO #2 design computer systems, implement algorithms as part of those
+      systems, and create well-written and documented programs.
+    * Course SLO #3 design, implement, and modify normalized database systems.
+      Graduates will also be able to write software that uses a database.
+    * Course SLO #4 demonstrate how the features of the hardware system support
+      software organization and performance.
+    * Course SLO #5 apply and manage computer systems to meet business objectives.
+    * Course SLO #6 create and manage computer systems utilizing a variety of
+      information technologies.
+    * Course SLO #7 design, implement, and modify normalized database systems.
+      Graduates will also know how to maintain and manage database systems.
+
+

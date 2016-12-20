@@ -1,0 +1,20 @@
+Course
+------
+
+* Course title:
+  CIS Capstone
+* Catalog course description:
+  Students must work on either a significant research project, a significant software
+  development project, or a development project as part of an internship. This is a one
+  credit version of 385 for when a student is working on an internship or project in
+  combination with another major that does not require an additional four credits of
+  load. Prerequisite: Completion of at least one 300-level CmSc or CIS course,
+  submission of a proposal, and senior standing. One credit. Offered every semester
+
+* Course level student learning objectives (SLOs):
+
+    * Course SLO #1 apply and manage computer systems to meet business objectives.
+    * Course SLO #2 create and manage computer systems utilizing a variety of
+      information technologies.
+    * Course SLO #3 design, implement, and modify normalized database systems.
+      Graduates will also know how to maintain and manage database systems.

@@ -1,0 +1,1 @@
+**CMSC Major SLO #1:** Design, implement, and analyze computational algorithms.
