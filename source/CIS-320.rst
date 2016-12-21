@@ -28,6 +28,10 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
+Because this is the first time this class has been taught (web development used
+to be one semester) the assignments below may change. We'll see how the class
+progresses.
+
 * Monday, Jan 16 at 8 am: Assignment 1 - Create your own web development stack
 * Monday, Jan 23 at 8 am: Assignment 2 - Accept and validate a form
 * Monday, Jan 30 at 8 am: Assignment 3 - Insert new records in a database
@@ -41,12 +45,12 @@ Assignments
   application to use JavaScript, jQuery, and JSON
 * Monday, Mar 20 at 8 am: Assignment 9 - Create an graphing application that
   uses the D3 library
-* Monday, Mar 27 at 8 am: Assignment 10 -
-* Monday, Apr 03 at 8 am: Assignment 11 -
-* Monday, Apr 10 at 8 am: Assignment 12 -
+* Monday, Mar 27 at 8 am: Assignment 10 - TBD
+* Monday, Apr 03 at 8 am: Assignment 11 - TBD
+* Monday, Apr 10 at 8 am: Assignment 12 - TBD
 * Monday, Apr 17: Work on final project
 * Monday, Apr 24 at 8 am: Assignment 13 - Final report, write up a tutorial on
-  how to use a new web technology
+  how to use a new web technology (**TODO:** Update with final time)
 
 Course Assessment
 -----------------

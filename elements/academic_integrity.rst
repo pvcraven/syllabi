@@ -14,8 +14,8 @@ else, or submitting a paper that was previously submitted in whole or in
 substantial part for another class without prior permission. If the student
 has any questions about whether any action would constitute academic dishonesty,
 it is imperative that he or she consult the instructor before taking the action.
-All cases of substantiated academic dishonesty must be reported to the student’s
-academic advisor and the Dean for Academic Affairs. For further guidance on these
+**All cases of substantiated academic dishonesty must be reported to the student’s
+academic advisor and the Dean for Academic Affairs.** For further guidance on these
 rules and their sanctions, please see the college catalog.
 
 **My addition:**

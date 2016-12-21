@@ -15,6 +15,14 @@ Course
 
 * Course level student learning objectives (SLOs):
 
-    * TODO
+    * Learn to create web applications that can create, read, update, and
+      delete records from a database.
+    * Learn to validate information both on the server side and on the client
+      side.
+    * Learn how to protect against common security vulnerabilities.
+    * Learn both encryption and hashing.
+    * Learn to authenticate and authorize users and manage session information.
+    * Learn to manage a server stack.
+    * Learn to write tutorials, and to create a security plan.
 
-* Textbook: None
+* Textbook is on-line: http://web-development-class.readthedocs.io
