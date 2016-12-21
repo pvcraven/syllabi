@@ -13,10 +13,16 @@ Course
 
 * Course level student learning objectives (SLOs):
 
-    * Course SLO #1 apply and manage computer systems to meet business objectives.
-    * Course SLO #2 create and manage computer systems utilizing a variety of
-      information technologies.
-    * Course SLO #3 design, implement, and modify normalized database systems.
-      Graduates will also know how to maintain and manage database systems.
+* Course SLO #1: Graduates with a B.A. in Computer Science will be able to
+  design, implement, and analyze computational algorithms.
+* Course SLO #2: Graduates with a B.A. in Computer Science will be able to
+  design computer systems, implement algorithms as part of those systems, and
+  create well-written and documented programs.
+* Course SLO #3: Graduates with a B.A. in Computer Science will be able to
+  design, implement, and modify normalized database systems. Graduates will also
+  be able to write software that uses a database.
+* Course SLO #4: Graduates with a B.A. in Computer Science will be able to
+  demonstrate how the features of the hardware system support software
+  organization and performance.
 
 * Textbook: None

@@ -50,14 +50,13 @@ Course Assessment
 Engaged Citizenship Grids
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This course does not have any EC designations.
+**TODO:** QUANT
 
 Student Learning Outcomes for the Major
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. include:: ../elements/CIS-SLO-1.rst
-.. include:: ../elements/CIS-SLO-2.rst
-.. include:: ../elements/CIS-SLO-3.rst
+.. include:: ../elements/CMSC-SLO-1.rst
+.. include:: ../elements/CMSC-SLO-2.rst
 
 .. include:: ../elements/contact_time_385.rst
 
