@@ -31,4 +31,4 @@ Course
 	* Debugging techniques
 	* Using and creating libraries
 
-* Textbook: None
+* Textbook: http://arcade-book.readthedocs.io/en/latest/

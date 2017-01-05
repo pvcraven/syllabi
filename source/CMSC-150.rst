@@ -31,8 +31,12 @@ Assignments
 All assignments have two parts. A **lab** and a **quiz**. The quiz will be done
 on-line with Scholar. The quiz is done outside of class, and you may use the
 book to complete it. The lab must be checked into GitHub, and then a link
-to the folder submitted on-line through Scholar. Both of these are due by the
-time indicated below:
+to the folder submitted on-line through Scholar.
+
+This course is getting updated, so the exact nature of the assignments might
+change from what is listed below.
+
+Both the quiz and the lab are due by the time indicated below:
 
 * Monday, Jan 16 at 8 am: Assignment 1 - Initial setup, GitHub check-in, and
   simple program.

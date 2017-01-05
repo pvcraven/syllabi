@@ -58,7 +58,7 @@ Course Assessment
 Engaged Citizenship Grids
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-**TODO:** WC
+.. include:: ../elements/ECC-WC-CIS-320.rst
 
 Student Learning Outcomes for the Major
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
