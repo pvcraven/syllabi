@@ -32,8 +32,12 @@ Because this is the first time this class has been taught (web development used
 to be one semester) the assignments below may change. We'll see how the class
 progresses.
 
+Assignments will involve a 10 point quiz and a 20 point lab. The exceptions will
+be Assignment 7 and Assignment 13. These are written reports that will be worth
+30 points each.
+
 * Monday, Jan 16 at 8 am: Assignment 1 - Create your own web development stack
-* Monday, Jan 23 at 8 am: Assignment 2 - Accept and validate a form
+* Monday, Jan 23 at 8 am: Assignment 2 - Submit and validate a form via JavaScript
 * Monday, Jan 30 at 8 am: Assignment 3 - Insert new records in a database
 * Monday, Feb 06 at 8 am: Assignment 4 - Update and delete records in a database
 * Monday, Feb 13 at 8 am: Assignment 5 - Add the ability to log in

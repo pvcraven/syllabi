@@ -1,5 +1,5 @@
-CIS 150 Introduction to Programming
-===================================
+CMSC 150 Introduction to Programming
+====================================
 
 .. include:: ../elements/CMSC-150.rst
 
@@ -31,8 +31,13 @@ Assignments
 All assignments have two parts. A **lab** and a **quiz**. The quiz will be done
 on-line with Scholar. The quiz is done outside of class, and you may use the
 book to complete it. The lab must be checked into GitHub, and then a link
-to the folder submitted on-line through Scholar. Both of these are due by the
-time indicated below:
+to the folder submitted on-line through Scholar.
+
+Quizzes will be worth 10 points, and labs will be worth 20 points. The exception
+will be Assignment 13, which will not involve any quizzes, and it will be worth
+60 points.
+
+Assignments (both quizzes and labs) are due by the time indicated below:
 
 * Monday, Jan 16 at 8 am: Assignment 1 - Initial setup, GitHub check-in, and
   simple program.
@@ -49,7 +54,7 @@ time indicated below:
 * Monday, Apr 03 at 8 am: Assignment 11 - Moving sprites
 * Monday, Apr 10 at 8 am: Assignment 12 - Spell check
 * Monday, Apr 17: Work on final project
-* Monday, Apr 24 at 8 am: Assignment 13 - Final project
+* Monday, Apr 24 at 8 am: Assignment 13 - Final project (No quiz, 60 points)
 
 Course Assessment
 -----------------
