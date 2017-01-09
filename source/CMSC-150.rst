@@ -57,7 +57,7 @@ Assignments (both quizzes and labs) are due by the time indicated below:
 * Monday, Apr 03 at 8 am: Assignment 11 - Moving sprites
 * Monday, Apr 10 at 8 am: Assignment 12 - Spell check
 * Monday, Apr 17: Work on final project
-* Monday, Apr 24 at 8 am: Assignment 13 - Final project (No quiz, 60 points)
+* Wednesday Apr 26 at 12:15 pm: Assignment 13 - Final project (No quiz, 60 points)
 
 Course Assessment
 -----------------
