@@ -7,6 +7,7 @@ Spring Semester 2017          Date
 Registration Day                 Jan-09
 Classes Begin                    Jan-10
 Last Day to Add/Drop             Jan-16
+MLK day. Altered schedule        Jan-16
 Mid-Term Date                    Feb-24
 Mid-Term Grades Due              Mar-01
 Spring Break                   Mar 4-12

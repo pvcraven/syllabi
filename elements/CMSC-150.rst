@@ -2,7 +2,7 @@ Course
 ------
 
 * Course title:
-  CMSC 150 Introduction to Programming
+  CIS 150 Introduction to Programming
 * Catalog course description:
   This course introduces computer programming, emphasizing algorithm design
   and implementation using conditionals, loops, functions, recursion, and
@@ -31,4 +31,4 @@ Course
 	* Debugging techniques
 	* Using and creating libraries
 
-* Textbook: http://arcade-book.readthedocs.io/en/latest/index.html
+* Textbook: http://arcade-book.readthedocs.io/en/latest/

@@ -29,11 +29,18 @@ A student who completes a QR course will be able to …
 |                  | make decisions using quantitative   |                                                |                                           |
 |                  | methods                             |                                                |                                           |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
-| QR SLO2.         |                                     |                                                |                                           |
-| Communicate      |                                     |                                                |                                           |
+| QR SLO2.         | communicate solutions to            | Lecture, quizzes, labs                         | Final lab                                 |
+| Communicate      | quantitative questions in oral or   |                                                |                                           |
+|                  | written communication that          |                                                |                                           |
+|                  | incorporates symbolic, numeric or   |                                                |                                           |
+|                  | graphical representations           |                                                |                                           |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
-| QR SLO3.         |                                     |                                                |                                           |
-| Evaluate         |                                     |                                                |                                           |
+| QR SLO3.         | analyze solutions to quantitative   | Lecture, quizzes, labs                         | Final lab                                 |
+| Evaluate         | questions for accuracy, precision,  |                                                |                                           |
+|                  | suitability and/or other appropriate|                                                |                                           |
+|                  | criteria                            |                                                |                                           |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
-| QR SLO4. Reflect |                                     |                                                |                                           |
+| QR SLO4. Reflect | describe the value, limitations     | Lecture, quizzes, labs                         | Reflection assignment                     |
+|                  | and/or implications of quantitative |                                                |                                           |
+|                  | decision making                     |                                                |                                           |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+

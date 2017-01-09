@@ -37,6 +37,9 @@ Quizzes will be worth 10 points, and labs will be worth 20 points. The exception
 will be Assignment 13, which will not involve any quizzes, and it will be worth
 60 points.
 
+This course is getting updated, so the exact nature of the assignments might
+change from what is listed below.
+
 Assignments (both quizzes and labs) are due by the time indicated below:
 
 * Monday, Jan 16 at 8 am: Assignment 1 - Initial setup, GitHub check-in, and
