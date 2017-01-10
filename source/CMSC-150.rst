@@ -55,6 +55,13 @@ Both the quiz and the lab are due by the time indicated below:
 * Monday, Apr 17: Work on final project
 * Monday, Apr 24 at 8 am: Assignment 13 - Final project
 
+Labs may be resubmitted for a regrade up to one week after they are graded.
+So if you turn in an assignment on 1/8 and it is graded on 1/10 at 10 am,
+then it can be fixed and submitted for a regrade any time up to 1/17 at 10 am.
+
+Exceptions: Time during Spring Break isn't counted towards the seven days. All
+assignments and regrades must be in by
+
 Course Assessment
 -----------------
 
