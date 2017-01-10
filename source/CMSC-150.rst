@@ -64,7 +64,8 @@ So if you turn in an assignment on 1/8 and it is graded on 1/10 at 10 am,
 then it can be fixed and submitted for a regrade any time up to 1/17 at 10 am.
 
 Exceptions: Time during Spring Break isn't counted towards the seven days. All
-assignments and regrades must be in by
+assignments and regrades must be in by Wednesday Apr 26 at 12:15 pm, even if
+you didn't get 10 days.
 
 Course Assessment
 -----------------
