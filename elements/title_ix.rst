@@ -15,4 +15,5 @@ taken, I will do my best to involve you in that process so that you know what
 to expect as a result of the communication with the Title IX Coordinator. To
 learn more about the expectations the college has of you with respect to sexual
 misconduct, you can find the full policy here:
+
 http://simpson.edu/sexual-and-relationship-misconduct-policy/
