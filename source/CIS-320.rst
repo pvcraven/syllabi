@@ -8,7 +8,9 @@ CIS 320 Advanced Web Development and Security
 Schedule
 --------
 
-Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
+Class meets Monday/Wednesday/Friday from 8:00 am until 9:00 am.
+
+Lab meets Tuesday from 2:10 pm until 3:40 pm.
 
 .. include:: ../elements/2017_sp_calendar.rst
 
@@ -79,8 +81,6 @@ Policies and Procedures
 .. include:: ../elements/course_continuity_plan.rst
 
 .. include:: ../elements/academic_integrity.rst
-
-.. include:: ../elements/inclusive_explanation_statement.rst
 
 .. include:: ../elements/accommodations.rst
 

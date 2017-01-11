@@ -15,7 +15,7 @@ Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
 Student Assessment
 ------------------
 
-.. include:: ../elements/assignment_submission_git.rst
+.. include:: ../elements/assignment_submission_bitbucket.rst
 
 .. include:: ../elements/grading.rst
 
@@ -30,7 +30,7 @@ Assignments
 
 All assignments have two parts. A **lab** and a **quiz**. The quiz will be done
 on-line with Scholar. The quiz is done outside of class, and you may use the
-book to complete it. The lab must be checked into GitHub, and then a link
+book to complete it. The lab must be checked into BitBucket, and then a link
 to the folder submitted on-line through Scholar.
 
 Quizzes will be worth 10 points, and labs will be worth 20 points. The exception
@@ -42,7 +42,7 @@ change from what is listed below.
 
 Assignments (both quizzes and labs) are due by the time indicated below:
 
-* Monday, Jan 16 at 8 am: Assignment 1 - Initial setup, GitHub check-in, and
+* Monday, Jan 16 at 8 am: Assignment 1 - Initial setup, BitBucket check-in, and
   simple program.
 * Monday, Jan 23 at 8 am: Assignment 2 - Draw an image
 * Monday, Jan 30 at 8 am: Assignment 3 - Draw an image with functions
@@ -89,8 +89,6 @@ Policies and Procedures
 .. include:: ../elements/course_continuity_plan.rst
 
 .. include:: ../elements/academic_integrity.rst
-
-.. include:: ../elements/inclusive_explanation_statement.rst
 
 .. include:: ../elements/accommodations.rst
 
