@@ -1,0 +1,30 @@
+Course
+------
+
+* Course title:
+  Introduction to the Creation of 3-D Movies and Graphics
+* Catalog course description:
+  This course will introduce students to creating three dimensional graphics.
+  Students will learn to create three dimensional models, and add texture,
+  lighting, and structure. Students will learn how to animate models and create
+  a movie. Students will work individually or in teams to create and publicly
+  present a final project. ART. Four credits. Offered May Term of odd numbered
+  years.
+* Course level student learning objectives (SLOs):
+
+  * Technical
+
+    * Learn to model in three dimensions
+    * Learn to texture 3D object
+    * Learn to light a 3D scene
+    * Learn to animate a 3D scene
+
+  * Artistic
+
+    * Learn to express perspectives, concepts, and ideas using 3D computer
+      graphics as a medium.
+    * Reflect and think critically about other's artistic works and your own.
+    * Understand the value of the creative process.
+    * Express yourself using your own artistic creation.
+
+* Textbook: http://3d-graphics-class.readthedocs.io/

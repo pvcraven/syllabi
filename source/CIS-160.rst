@@ -1,0 +1,60 @@
+CIS 160 Introduction to the Creation of 3-D Movies and Graphics
+===============================================================
+
+.. include:: ../elements/CIS-160.rst
+
+.. include:: ../elements/craven_instructor_info.rst
+
+Schedule
+--------
+
+Class meets every weekday from 8:30 am until 11:15 am, May 1st to May 17, 2017
+
+Student Assessment
+------------------
+
+.. include:: ../elements/grading.rst
+
+.. include:: ../elements/standard_grading_scale.rst
+
+.. include:: ../elements/late_work_policy.rst
+
+.. include:: ../elements/attendance_in_person.rst
+
+Assignments
+^^^^^^^^^^^
+
+There will be nine assignments, plus a final project. Each assignment is worth
+ten points, for a total of ninety points. The final assignment is worth one
+hundred points. The class will be graded out of 190 points total.
+
+
+Course Assessment
+-----------------
+
+Engaged Citizenship Grids
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. include:: ../elements/ECC-WC-CIS-320.rst
+
+Student Learning Outcomes for the Major
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. include:: ../elements/CIS-SLO-1.rst
+.. include:: ../elements/CIS-SLO-2.rst
+.. include:: ../elements/CIS-SLO-3.rst
+
+.. include:: ../elements/contact_time_cis_320.rst
+
+Policies and Procedures
+-----------------------
+
+.. include:: ../elements/course_continuity_plan.rst
+
+.. include:: ../elements/academic_integrity.rst
+
+.. include:: ../elements/accommodations.rst
+
+.. include:: ../elements/inclusive_explanation_statement.rst
+
+.. include:: ../elements/title_ix.rst
