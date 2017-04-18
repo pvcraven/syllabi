@@ -19,7 +19,7 @@ Student Assessment
 
 .. include:: ../elements/late_work_policy.rst
 
-.. include:: ../elements/attendance_in_person.rst
+.. include:: ../elements/attendance_may_term.rst
 
 Assignments
 ^^^^^^^^^^^
@@ -35,16 +35,9 @@ Course Assessment
 Engaged Citizenship Grids
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. include:: ../elements/ECC-WC-CIS-320.rst
+.. include:: ../elements/ECC-AR-CIS-160.rst
 
-Student Learning Outcomes for the Major
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. include:: ../elements/CIS-SLO-1.rst
-.. include:: ../elements/CIS-SLO-2.rst
-.. include:: ../elements/CIS-SLO-3.rst
-
-.. include:: ../elements/contact_time_cis_320.rst
+.. include:: ../elements/contact_time_cis_160.rst
 
 Policies and Procedures
 -----------------------
