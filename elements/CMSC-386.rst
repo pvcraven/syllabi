@@ -1,5 +1,5 @@
-Course
-------
+Course Details
+--------------
 
 * Course title:
   CMSC Capstone

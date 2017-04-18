@@ -1,5 +1,5 @@
-Course
-------
+Course Details
+--------------
 
 * Course title:
   CIS 150 Introduction to Programming

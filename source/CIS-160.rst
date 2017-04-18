@@ -1,5 +1,5 @@
-CIS 160 Introduction to the Creation of 3-D Movies and Graphics
-===============================================================
+CIS 160: Intro to the Creation of 3-D Movies and Graphics
+=========================================================
 
 .. include:: ../elements/CIS-160.rst
 

@@ -1,5 +1,5 @@
-Course
-------
+Course Details
+--------------
 
 * Course title:
   Introduction to the Creation of 3-D Movies and Graphics
@@ -27,4 +27,4 @@ Course
     * Understand the value of the creative process.
     * Express yourself using your own artistic creation.
 
-* Textbook: http://3d-graphics-class.readthedocs.io/
+* Textbook: http://3d-graphics-class.readthedocs.io/ and videos from https://cgcookie.com/
