@@ -10,7 +10,7 @@ Schedule
 
 There is no formal meeting time for CIS 386. Class is conducted on-line.
 
-.. include:: ../elements/2017_sp_calendar.rst
+.. include:: ../elements/2017_sx_calendar.rst
 
 Student Assessment
 ------------------
@@ -28,21 +28,17 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-* Monday, Jan 16 at 8 am: Report 1
-* Monday, Jan 23 at 8 am: Report 2
-* Monday, Jan 30 at 8 am: Report 3
-* Monday, Feb 06 at 8 am: Report 4
-* Monday, Feb 13 at 8 am: Report 5
-* Monday, Feb 20 at 8 am: Report 6
-* Monday, Feb 27 at 8 am: Report 7
-* Monday, Mar 06: Spring Break - No assignment
-* Monday, Mar 13 at 8 am: Report 8
-* Monday, Mar 20 at 8 am: Report 9
-* Monday, Mar 27 at 8 am: Report 10
-* Monday, Apr 03 at 8 am: Report 11
-* Monday, Apr 10 at 8 am: Report 12
-* Monday, Apr 17 at 8 am: Report 13
-* Monday, Apr 24 at 8 am: Report 14
+* Monday, 6/5 at 8 am: Report 1
+* Monday, 6/12 at 8 am: Report 2
+* Monday, 6/19 at 8 am: Report 3
+* Monday, 6/26 at 8 am: Report 4
+* Monday, 7/3 at 8 am: Report 5
+* Monday, 7/10 at 8 am: Report 6
+* Monday, 7/17 at 8 am: Report 7
+* Monday, 7/24 at 8 am: Report 8
+* Monday, 7/31 at 8 am: Report 9
+* Monday, 8/7 at 8 am: Report 10
+* Monday, 8/14 at 8 am: Report 11
 
 Course Assessment
 -----------------
@@ -50,7 +46,7 @@ Course Assessment
 Engaged Citizenship Grids
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-This course does not have any EC designations.
+This course does not have any ECC designations.
 
 Student Learning Outcomes for the Major
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
