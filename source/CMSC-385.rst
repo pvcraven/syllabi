@@ -10,7 +10,7 @@ Schedule
 
 There is no formal meeting time for CMSC 385. Class is conducted on-line.
 
-.. include:: ../elements/2017_sp_calendar.rst
+.. include:: ../elements/2017_sx_calendar.rst
 
 Student Assessment
 ------------------
@@ -28,21 +28,17 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-* Monday, Jan 16 at 8 am: Assignment 1 - AngularJS
-* Monday, Jan 23 at 8 am: Assignment 2 - AngularJS
-* Monday, Jan 30 at 8 am: Assignment 3 - AngularJS
-* Monday, Feb 06 at 8 am: Assignment 4 - Node.js
-* Monday, Feb 13 at 8 am: Assignment 5 - Node.js
-* Monday, Feb 20 at 8 am: Assignment 6 - Node.js
-* Monday, Feb 27 at 8 am: Assignment 7 - Data Structure Speed Comparison
-* Monday, Mar 06: Spring Break - No assignment
-* Monday, Mar 13 at 8 am: Assignment 8 - Data Structure Speed Comparison
-* Monday, Mar 20 at 8 am: Assignment 9 - ER Diagram Layout
-* Monday, Mar 27 at 8 am: Assignment 10 - ER Diagram Layout
-* Monday, Apr 03 at 8 am: Assignment 11 - Amazon Web Services
-* Monday, Apr 10 at 8 am: Assignment 12 - Amazon Web Services
-* Monday, Apr 17: Work on final project
-* Monday, Apr 24 at 8 am: Assignment 13 (report on subject of your choice, worth double points)
+* Monday, Jun 04 at 8:00 am: Assignment 1 - Zukei Puzzle
+* Monday, Jun 12 at 8:00 am: Assignment 2 - Node.js Report to Management
+* Monday, Jun 19 at 8:00 am: Assignment 3 - Node.js Proof-of-Concept
+* Monday, Jun 26 at 8:00 am: Assignment 4 - Node.js Tutorial/Technical Report
+* Monday, Jul 03 at 8:00 am: Assignment 5 - Database Diagramming
+* Monday, Jul 10 at 8:00 am: Assignment 6 - Cloud Services Part 1
+* Monday, Jul 17 at 8:00 am: Assignment 7 - Cloud Services Part 2
+* Monday, Jul 24 at 8:00 am: Assignment 8 - Data Structures 1
+* Monday, Jul 31 at 8:00 am: Assignment 9 - Data Structures 2
+* Monday, Aug 07 at 8:00 am: Assignment 10 - Final Project Draft
+* Monday, Aug 14 at 8:00 am: Assignment 11 - Final Project
 
 Course Assessment
 -----------------
