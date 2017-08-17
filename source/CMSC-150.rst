@@ -8,9 +8,18 @@ CMSC 150 Introduction to Programming
 Schedule
 --------
 
-Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
+Class meets:
 
-.. include:: ../elements/2017_sp_calendar.rst
+* Section A: MWF from 8:00 am until 9:00 am
+* Section B: MWF from 10:20 am until 11:20 am
+
+Class also has a required lab.
+
+* Section Y: Tue 9:40 am - 11:10 am
+* Section Z: Tue 2:10 pm - 3:40 pm
+
+
+.. include:: ../elements/2017_fa_calendar.rst
 
 Student Assessment
 ------------------
@@ -23,7 +32,11 @@ Student Assessment
 
 .. include:: ../elements/late_work_policy.rst
 
-.. include:: ../elements/attendance_in_person.rst
+.. include:: ../elements/attendance_in_person_with_lab.rst
+
+Because there are two sections for the class, if have to miss one section but can
+attend the other, please do. Please e-mail me a note so I can make sure to
+mark you as having attended.
 
 Assignments
 ^^^^^^^^^^^
@@ -42,29 +55,85 @@ change from what is listed below.
 
 Assignments (both quizzes and labs) are due by the time indicated below:
 
-* Monday, Jan 16 at 8 am: Assignment 1 - Initial setup, BitBucket check-in, and
-  simple program.
-* Monday, Jan 23 at 8 am: Assignment 2 - Draw an image
-* Monday, Jan 30 at 8 am: Assignment 3 - Draw an image with functions
-* Monday, Feb 06 at 8 am: Assignment 4 - Draw an image with repeating elements
-* Monday, Feb 13 at 8 am: Assignment 5 - Advanced looping
-* Monday, Feb 20 at 8 am: Assignment 6 - Animate an image
-* Monday, Feb 27 at 8 am: Assignment 7 - TBD
-* Monday, Mar 06: Spring Break - No assignment
-* Monday, Mar 13 at 8 am: Assignment 8 - User control
-* Monday, Mar 20 at 8 am: Assignment 9 - Sprites and graphics
-* Monday, Mar 27 at 8 am: Assignment 10 - Sprite collecting
-* Monday, Apr 03 at 8 am: Assignment 11 - Moving sprites
-* Monday, Apr 10 at 8 am: Assignment 12 - Spell check
-* Monday, Apr 17: Work on final project
-* Wednesday Apr 26 at 12:15 pm: Assignment 13 - Final project (No quiz, 60 points)
+* Tuesday, Sept 5 at 8 am:
+
+  * Lab 1: First Program (Initial setup, BitBucket check-in, and
+    simple program.)
+  * Quiz 1
+
+* Monday, Sept 11 at 8 am:
+
+  * Lab 2: Draw a Picture
+  * Quiz 2
+
+* Monday, Sept 18 at 8 am:
+
+  * Lab 3: Drawing with Functions
+  * Quiz 3
+
+* Monday, Sept 25 at 8 am:
+
+  * Lab 4: Camel (Loops and Conditional Statements)
+  * Quiz 4
+
+* Monday, Oct 2 at 8 am:
+
+  * Lab 5: Loopy Lab (Nested Loops)
+  * Quiz 5
+
+* Monday, Oct 9 at 8 am:
+
+  * Lab 6: Text Adventure (Nested Loops, Text as Arrays)
+  * Quiz 6
+
+* Monday, Oct 16 at 8 am:
+
+  * Lab 7: User Control (Joysticks and Keyboard Input)
+  * Quiz 7
+
+* (Just after Fall Break) Tuesday, Oct 24 at 8 am:
+
+  * Lab 8: Sprites (Classes)
+  * Quiz 8
+
+* Monday, Oct 30 at 8 am:
+
+  * Lab 9: Sprites and Walls (Classes)
+  * Quiz 9
+
+* Monday, Nov 6 at 8 am:
+
+  * Lab 10: Spell Check (Linear and Binary Search)
+  * Quiz 10
+
+* Monday, Nov 13 at 8 am:
+
+  * Lab 11: Array-Backed Grids (Two-Dimensional Arrays)
+  * Quiz 11
+
+* Monday, Nov 20 at 8 am:
+
+  * Lab 12: Work on Final Lab
+  * Quiz 12
+
+* Nothing due week of Nov 27
+
+* Monday, Dec 4 at 8 am:
+
+  * Quantitative Reasoning Reflection (20 points)
+  * Quiz 13
+
+* Wednesday Dec 13 at 12:15 pm:
+
+  * Lab 12 - Final project (No quiz, 60 points)
+
 
 Labs may be resubmitted for a regrade up to one week after they are graded.
-So if you turn in an assignment on 1/8 and it is graded on 1/10 at 10 am,
-then it can be fixed and submitted for a regrade any time up to 1/17 at 10 am.
+So if you turn in an assignment on the 8th and it is graded on the 10th at 10 am,
+then it can be fixed and submitted for a regrade any time up to the 17th at 10 am.
 
-Exceptions: Time during Spring Break isn't counted towards the seven days. All
-assignments and regrades must be in by Wednesday Apr 26 at 12:15 pm, even if
+Exceptions: Time during Fall and Thanksgiving Break isn't counted towards the seven days. All
+assignments and regrades must be in by Wednesday Dec 13 at 12:15 pm, even if
 you didn't get 10 days.
 
 Course Assessment

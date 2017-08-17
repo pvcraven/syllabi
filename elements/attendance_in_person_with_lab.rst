@@ -1,10 +1,12 @@
 Attendance/Participation Policy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+(For classes with lab.)
+
 A student may miss three classes unexcused without penalty. After three
-unexcused absences, a student's final grade will be lowered 3% for each class
+unexcused absences, a student's final grade will be lowered 2% for each class
 missed, not including the original three. So missing five classes will be a
-6% penalty on the final grade.
+4% penalty on the final grade.
 
 Excused absences are those approved by the Academic Dean, or by prior permission
 of the instructor. Absences for sporting event functions are normally run
