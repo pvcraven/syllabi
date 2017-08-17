@@ -1,23 +1,14 @@
-CMSC 150 Introduction to Programming
-====================================
+CIS 120 Introduction to Web Development
+=======================================
 
-.. include:: ../elements/CMSC-150.rst
+.. include:: ../elements/CIS-120.rst
 
 .. include:: ../elements/craven_instructor_info.rst
 
 Schedule
 --------
 
-Class meets:
-
-* Section A: MWF from 8:00 am until 9:00 am
-* Section B: MWF from 10:20 am until 11:20 am
-
-Class also has a required lab.
-
-* Section Y: Tue 9:40 am - 11:10 am
-* Section Z: Tue 2:10 pm - 3:40 pm
-
+Class meets Tuesday and Thursday from 8:00 am until 9:30 am.
 
 .. include:: ../elements/2017_fa_calendar.rst
 
@@ -26,13 +17,15 @@ Student Assessment
 
 .. include:: ../elements/assignment_submission_bitbucket.rst
 
+.. include:: ../elements/you_need_a_server.rst
+
 .. include:: ../elements/grading.rst
 
 .. include:: ../elements/standard_grading_scale.rst
 
 .. include:: ../elements/late_work_policy.rst
 
-.. include:: ../elements/attendance_in_person_with_lab.rst
+.. include:: ../elements/attendance_in_person.rst
 
 Because there are two sections for the class, if have to miss one section but can
 attend the other, please do. Please e-mail me a note so I can make sure to
@@ -49,6 +42,9 @@ to the folder submitted on-line through Scholar.
 Quizzes will be worth 10 points, and labs will be worth 20 points. The exception
 will be Assignment 13, which will not involve any quizzes, and it will be worth
 60 points.
+
+This course is getting updated, so the exact nature of the assignments might
+change from what is listed below.
 
 Assignments (both quizzes and labs) are due by the time indicated below:
 
@@ -124,13 +120,10 @@ Assignments (both quizzes and labs) are due by the time indicated below:
 
   * Lab 12 - Final project (No quiz, 60 points)
 
-.. note:: Labs can be resubmitted once for more points.
 
 Labs may be resubmitted for a regrade up to one week after they are graded.
 So if you turn in an assignment on the 8th and it is graded on the 10th at 10 am,
 then it can be fixed and submitted for a regrade any time up to the 17th at 10 am.
-
-You may only resubmit a lab once.
 
 Exceptions: Time during Fall and Thanksgiving Break isn't counted towards the seven days. All
 assignments and regrades must be in by Wednesday Dec 13 at 12:15 pm, even if

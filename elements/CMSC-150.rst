@@ -2,7 +2,7 @@ Course Details
 --------------
 
 * Course title:
-  CIS 150 Introduction to Programming
+  CMSC 150 Introduction to Programming
 * Catalog course description:
   This course introduces computer programming, emphasizing algorithm design
   and implementation using conditionals, loops, functions, recursion, and

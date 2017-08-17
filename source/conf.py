@@ -16,6 +16,7 @@
 import sys
 import os
 import shlex
+import sphinx.environment
 
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
@@ -26,6 +27,10 @@ import shlex
 
 # If your documentation needs a minimal Sphinx version, state it here.
 #needs_sphinx = '1.0'
+
+def setup(app):
+    app.add_stylesheet('css/custom.css')
+
 
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom

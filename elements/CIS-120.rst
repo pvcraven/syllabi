@@ -1,0 +1,28 @@
+Course Details
+--------------
+
+* Course title:
+  CIS 120 Introduction to Web Development
+* Catalog course description:
+  This class introduces the technologies behind web development. Students will
+  learn HTML and CSS to target web sites for web, mobile, and print media.
+  Students will learn about usability, color theory, layout, and
+  internationalization. Students will also learn to collaborate with other
+  students by communication in meetings, documents, and by using version
+  control. Students will learn to manage files and deploy websites onto the cloud.
+  COLLABLDR. Four credits. Offered every fall.
+
+* Course level student learning objectives (SLOs):
+
+  * Learn and use Distributed Version Control Systems (DVCS)
+  * Use to collaborate with multiple people using DVCS
+  * Learn and use HTML
+  * Learn and use CSS
+  * Learn and use to navigate file systems
+  * Learn and use basic command-line for Windows and Linux
+  * Learn and use cloud hosting for web pates
+  * Learn the theory behind application servers
+  * Learn and use Content Management Systems (CMS)
+  * Learn and use static content generators
+
+* Textbook: https://readthedocs.org/projects/web-development-class/
