@@ -34,100 +34,54 @@ mark you as having attended.
 Assignments
 ^^^^^^^^^^^
 
-All assignments have two parts. A **lab** and a **quiz**. The quiz will be done
-on-line with Scholar. The quiz is done outside of class, and you may use the
-book to complete it. The lab must be checked into BitBucket, and then a link
-to the folder submitted on-line through Scholar.
+Assignments and quizzes will be worth 10 points.
 
-Quizzes will be worth 10 points, and labs will be worth 20 points. The exception
-will be Assignment 13, which will not involve any quizzes, and it will be worth
-60 points.
+Assignments are due by the time indicated below:
 
-This course is getting updated, so the exact nature of the assignments might
-change from what is listed below.
+* Tuesday, Sept 12 at 8 am:
 
-Assignments (both quizzes and labs) are due by the time indicated below:
+  * Assignment 1 - Basic HTML
 
-* Tuesday, Sept 5 at 8 am:
+* Thursday, Sept 14 at 8 am:
 
-  * Lab 1: First Program (Initial setup, BitBucket check-in, and
-    simple program.)
-  * Quiz 1
+  * Assignment 2 - DVCS
 
-* Monday, Sept 11 at 8 am:
+* Tuesdat, Sept 26 at 8 am:
 
-  * Lab 2: Draw a Picture
-  * Quiz 2
+  * Assignment 3 - CSS
 
-* Monday, Sept 18 at 8 am:
+* Tuesday, Oct 3 at 8 am:
 
-  * Lab 3: Drawing with Functions
-  * Quiz 3
+  * Assignment 4 - Bootstrap
 
-* Monday, Sept 25 at 8 am:
+* Wednesday, Oct 11 at 8 am:
 
-  * Lab 4: Camel (Loops and Conditional Statements)
-  * Quiz 4
+  * Assignment 5 - Finalize Site
 
-* Monday, Oct 2 at 8 am:
+* Tuesday, Oct 25 at 8 am:
 
-  * Lab 5: Loopy Lab (Nested Loops)
-  * Quiz 5
+  * Assignment 6 - AWS Deployment
 
-* Monday, Oct 9 at 8 am:
+* Friday, Nov 3 at 8 am:
 
-  * Lab 6: Text Adventure (Nested Loops, Text as Arrays)
-  * Quiz 6
+  * Assignment 7 - PHP Include
 
-* Monday, Oct 16 at 8 am:
+* Friday, Nov 10 at 8 am:
 
-  * Lab 7: User Control (Joysticks and Keyboard Input)
-  * Quiz 7
+  * Assignment 8 - DNS and Performance
 
-* (Just after Fall Break) Tuesday, Oct 24 at 8 am:
+* Tuesday, Nov 14 at 8 am:
 
-  * Lab 8: Sprites (Classes)
-  * Quiz 8
+  * Assignment 9 - Install WordPress
 
-* Monday, Oct 30 at 8 am:
+* Tuesday, Nov 21 at 8 am:
 
-  * Lab 9: Sprites and Walls (Classes)
-  * Quiz 9
+  * Assignment 10 - WordPress Site
 
-* Monday, Nov 6 at 8 am:
+* Tuesday, Dec. 12, 10 am:
 
-  * Lab 10: Spell Check (Linear and Binary Search)
-  * Quiz 10
-
-* Monday, Nov 13 at 8 am:
-
-  * Lab 11: Array-Backed Grids (Two-Dimensional Arrays)
-  * Quiz 11
-
-* Monday, Nov 20 at 8 am:
-
-  * Lab 12: Work on Final Lab
-  * Quiz 12
-
-* Nothing due week of Nov 27
-
-* Monday, Dec 4 at 8 am:
-
-  * Quantitative Reasoning Reflection (20 points)
-  * Quiz 13
-
-* Wednesday Dec 13 at 12:15 pm:
-
-  * Lab 12 - Final project (No quiz, 60 points)
-
-
-Labs may be resubmitted for a regrade up to one week after they are graded.
-So if you turn in an assignment on the 8th and it is graded on the 10th at 10 am,
-then it can be fixed and submitted for a regrade any time up to the 17th at 10 am.
-
-Exceptions: Time during Fall and Thanksgiving Break isn't counted towards the seven days. All
-assignments and regrades must be in by Wednesday Dec 13 at 12:15 pm, even if
-you didn't get 10 days.
+  * Assignment 11 - Static Content Generators
+  * Reflection
 
 Course Assessment
 -----------------
@@ -135,15 +89,15 @@ Course Assessment
 Engaged Citizenship
 ^^^^^^^^^^^^^^^^^^^
 
-.. include:: ../elements/ECC-QR-CMSC-150.rst
+.. include:: ../elements/ECC-CL-CIS-120.rst
 
 Student Learning Outcomes for the Major
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. include:: ../elements/CMSC-SLO-1.rst
-.. include:: ../elements/CMSC-SLO-2.rst
+.. include:: ../elements/CIS-SLO-1.rst
+.. include:: ../elements/CIS-SLO-2.rst
 
-.. include:: ../elements/contact_time_cmsc_150.rst
+.. include:: ../elements/contact_time_cis-120.rst
 
 Policies and Procedures
 -----------------------

@@ -14,7 +14,7 @@ penalty, then that is subtracted next.
   not show that in the average. For example, if there are 10 assignments, each
   worth 100 points, but one is missing, Scholar will show your average as 100
   instead of 90. I do try to go back and enter zero on missing assignments so
-  Scholar shows the correct date, but sometimes that isn't practical.
+  Scholar shows the correct grade, but sometimes that isn't practical.
 * I've had a few semesters where the average score presented by Scholar is pure
   fiction, I'm not sure why.
 
