@@ -97,7 +97,7 @@ Student Learning Outcomes for the Major
 .. include:: ../elements/CIS-SLO-1.rst
 .. include:: ../elements/CIS-SLO-2.rst
 
-.. include:: ../elements/contact_time_cis-120.rst
+.. include:: ../elements/contact_time_cis_120.rst
 
 Policies and Procedures
 -----------------------
