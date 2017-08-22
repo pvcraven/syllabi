@@ -3,6 +3,26 @@ CIS 120 Introduction to Web Development
 
 .. include:: ../elements/CIS-120.rst
 
+Note
+^^^^
+
+There are many different areas of web development. We will be just scratching the surface of it. We will cover
+the main types of technical development, except for programming which is covered in the second semester.
+This class will start out hard and get easier.
+We will cover:
+
+* Version Control (hard)
+* Server/Cloud Setup (hard)
+* HTML (medium)
+* CSS (medium)
+* Content Management Systems (easier)
+* Static Content Generators (easy)
+
+Just like a survey course in Sports, History, or Religion, you may find
+there are parts of this that you like and wish we covered more, and others less. Imagine you got to teach a course
+labeled "Sports" in college. What sports would you cover? And in how much depth? What sports would you have students try out?
+
+
 .. include:: ../elements/craven_instructor_info.rst
 
 Schedule
@@ -82,6 +102,8 @@ Assignments are due by the time indicated below:
 
   * Assignment 11 - Static Content Generators
   * Reflection
+
+There will also be quizzes, but I don't have a schedule on those yet.
 
 Course Assessment
 -----------------
