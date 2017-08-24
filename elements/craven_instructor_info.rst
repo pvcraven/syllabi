@@ -2,7 +2,8 @@ Instructor
 ----------
 
 * Instructor Name: Paul Vincent Craven
-* Instructor Office Hours: 1:00 - 2:30 Mon, Tue, Wed, Thur (I'll probably be there later than 2:30 pm)
+* Instructor Office Hours: 1 pm - 2 pm Mon, Wed, Fri and 10 am - 11 am. I am often in my office outside of office
+  hours. Feel free to stop by.
 
 * Instructor Contact Information:
 
