@@ -7,5 +7,5 @@ to their degree. Another option is to work with a different professor and do
 10 or more hours per week on related research.
 
 The reports should take approximately 30 minutes to write each week.
-With 13 weeks in the course, the total number of hours involved should be
-approximately 136 hours.
+With 14 weeks in the course, the total number of hours involved should be
+approximately 146 hours.

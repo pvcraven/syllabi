@@ -10,7 +10,7 @@ Schedule
 
 There is no formal meeting time for CIS 386. Class is conducted on-line.
 
-.. include:: ../elements/2017_sx_calendar.rst
+.. include:: ../elements/2017_fa_calendar.rst
 
 Student Assessment
 ------------------
