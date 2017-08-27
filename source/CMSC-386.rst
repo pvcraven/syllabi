@@ -28,17 +28,21 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-* Monday, 6/5 at 8 am: Report 1
-* Monday, 6/12 at 8 am: Report 2
-* Monday, 6/19 at 8 am: Report 3
-* Monday, 6/26 at 8 am: Report 4
-* Monday, 7/3 at 8 am: Report 5
-* Monday, 7/10 at 8 am: Report 6
-* Monday, 7/17 at 8 am: Report 7
-* Monday, 7/24 at 8 am: Report 8
-* Monday, 7/31 at 8 am: Report 9
-* Monday, 8/7 at 8 am: Report 10
-* Monday, 8/14 at 8 am: Report 11
+* 4-Sep - Report 1
+* 11-Sep - Report 2
+* 18-Sep - Report 3
+* 25-Sep - Report 4
+* 2-Oct - Report 5
+* 9-Oct - Report 6
+* 16-Oct - Report 7
+* 23-Oct - Report 8
+* 30-Oct - Report 9
+* 6-Nov	Report 10
+* 13-Nov - Report 11
+* 20-Nov - Report 12
+* 27-Nov - No report
+* 4-Dec - Report 13
+* 11-Dec - Report 14
 
 Course Assessment
 -----------------
