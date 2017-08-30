@@ -66,7 +66,7 @@ Assignments are due by the time indicated below:
 
   * Assignment 2 - DVCS
 
-* Tuesdat, Sept 26 at 8 am:
+* Tuesday, Sept 26 at 8 am:
 
   * Assignment 3 - CSS
 
@@ -78,7 +78,7 @@ Assignments are due by the time indicated below:
 
   * Assignment 5 - Finalize Site
 
-* Tuesday, Oct 25 at 8 am:
+* Tuesday, Oct 24 at 8 am:
 
   * Assignment 6 - AWS Deployment
 
