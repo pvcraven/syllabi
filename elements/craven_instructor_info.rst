@@ -8,4 +8,5 @@ Instructor
 * Instructor Contact Information:
 
   * E-mail: paul.craven@simpson.edu
+  * Office: Carver 333 (Second floor, Carver Science Building)
   * Phone: 515-961-1834
