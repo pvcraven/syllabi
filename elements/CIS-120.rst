@@ -20,8 +20,10 @@ Course Details
   * Learn and use CSS
   * Learn and use to navigate file systems
   * Learn and use basic command-line for Windows and Linux
-  * Learn and use cloud hosting for web pates
   * Learn the theory behind application servers
+  * Learn and use single server and cloud hosting for web sites
+  * Learn how the Domain Name System (DNS) works
+  * How to create high-performance websites
   * Learn and use Content Management Systems (CMS)
   * Learn and use static content generators
 
