@@ -130,11 +130,15 @@ Labs may be resubmitted for a regrade up to one week after they are graded.
 So if you turn in an assignment on the 8th and it is graded on the 10th at 10 am,
 then it can be fixed and submitted for a regrade any time up to the 17th at 10 am.
 
-You may only resubmit a lab once.
+To resubmit a lab you must resubmit it for grading on Scholar. Otherwise I won't know
+to grade it. Committing and pushing the file to Bitbucket isn't enough.
+
+You may only resubmit a lab once, unless the first time was just a missing graphic or
+something like that.
 
 Exceptions: Time during Fall and Thanksgiving Break isn't counted towards the seven days. All
 assignments and regrades must be in by Wednesday Dec 13 at 12:15 pm, even if
-you didn't get 10 days.
+you didn't get seven days.
 
 Course Assessment
 -----------------
