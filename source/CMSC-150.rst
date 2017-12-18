@@ -11,15 +11,13 @@ Schedule
 Class meets:
 
 * Section A: MWF from 8:00 am until 9:00 am
-* Section B: MWF from 10:20 am until 11:20 am
 
 Class also has a required lab.
 
-* Section Y: Tue 9:40 am - 11:10 am
-* Section Z: Tue 2:10 pm - 3:40 pm
+* Section Z: Thur 2:10 pm - 3:40 pm
 
 
-.. include:: ../elements/2017_fa_calendar.rst
+.. include:: ../elements/2018_sp_calendar.rst
 
 Student Assessment
 ------------------
