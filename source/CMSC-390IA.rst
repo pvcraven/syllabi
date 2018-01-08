@@ -15,7 +15,7 @@ Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
 Student Assessment
 ------------------
 
-.. include:: ../elements/assignment_submission_git_and_server.rst
+.. include:: ../elements/assignment_submission.rst
 
 .. include:: ../elements/grading.rst
 
@@ -28,8 +28,12 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-Because this is the first time I've taught this class, there is not yet a list
-of assignments and when they are due.
+* For each chapter there will be an on-line quiz. Each quiz will be scaled to 10 points.
+* For each lab, there will be a lab report worth 10 points.
+* For each lab, there will be an on-line lab assessment worth 10 points.
+
+This is a new class for me, so the exact timing on when chapters and labs are due will be determined as we
+go on. But I hope to cover about 10 chapters and 10 labs over the course of our 13-14 weeks.
 
 Course Assessment
 -----------------
@@ -37,12 +41,9 @@ Course Assessment
 Student Learning Outcomes for the Major
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-.. include:: ../elements/CMSC-SLO-1.rst
 .. include:: ../elements/CMSC-SLO-2.rst
-.. include:: ../elements/CMSC-SLO-3.rst
-.. include:: ../elements/CMSC-SLO-4.rst
 
-.. include:: ../elements/contact_time_cis_320.rst
+.. include:: ../elements/contact_time_cmsc_360ia.rst
 
 Policies and Procedures
 -----------------------
