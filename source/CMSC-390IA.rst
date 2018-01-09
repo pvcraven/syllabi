@@ -46,6 +46,8 @@ Course Assessment
 
 .. include:: ../elements/contact_time_cmsc_390ia.rst
 
+.. include:: ../elements/CMSC-SLO-2.rst
+
 Policies and Procedures
 -----------------------
 
