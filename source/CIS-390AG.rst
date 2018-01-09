@@ -1,5 +1,5 @@
-CIS 390 - Advanced Gaming
-=========================
+CIS 390AG - Advanced Gaming
+===========================
 
 .. include:: ../elements/CIS-390AG.rst
 
@@ -15,7 +15,7 @@ Class meets Monday/Wednesday/Friday from 8:00 am until 9:00 am.
 Student Assessment
 ------------------
 
-.. include:: ../elements/assignment_submission_git_and_server.rst
+.. include:: ../elements/assignment_submission.rst
 
 .. include:: ../elements/grading.rst
 
@@ -28,8 +28,9 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-Because this is the first time I've taught this class, there is not yet a list
-of assignments and when they are due.
+We will work through part of the course with approximately half of the
+assignments being written, and half technical. Most assignments will come form the Unity curriculum.
+Next, there will be a final capstone project.
 
 Course Assessment
 -----------------
@@ -40,7 +41,7 @@ Student Learning Outcomes for the Major
 .. include:: ../elements/CIS-SLO-1.rst
 .. include:: ../elements/CIS-SLO-2.rst
 
-.. include:: ../elements/contact_time_cis_320.rst
+.. include:: ../elements/contact_time_cis_390ag.rst
 
 Policies and Procedures
 -----------------------

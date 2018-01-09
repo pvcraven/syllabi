@@ -12,7 +12,11 @@ Course Details
 
 * Course level student learning objectives (SLOs):
 
+  * Improve C# and JavaScript coding stills
+  * Improve 3D modeling skills
+  * Learn to work with a current, professional game engine. Including working with game physics
+  * Work in a team environment using standard project management and code management skills
 
-* Textbook is on-line: There is no textbook for the class. We will be utilizing
+* Textbook: There is no textbook for the class. We will be utilizing
   many of Unity's on-line resources. We will also be mostly following its
-  recommended curriculum for a class.
+  recommended class curriculum.
