@@ -10,7 +10,7 @@ Schedule
 
 There is no formal meeting time for CIS 386. Class is conducted on-line.
 
-.. include:: ../elements/2017_fa_calendar.rst
+.. include:: ../elements/2018_sp_calendar.rst
 
 Student Assessment
 ------------------
@@ -28,21 +28,21 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-* 4-Sep - Report 1
-* 11-Sep - Report 2
-* 18-Sep - Report 3
-* 25-Sep - Report 4
-* 2-Oct - Report 5
-* 9-Oct - Report 6
-* 16-Oct - Report 7
-* 23-Oct - Report 8
-* 30-Oct - Report 9
-* 6-Nov	Report 10
-* 13-Nov - Report 11
-* 20-Nov - Report 12
-* 27-Nov - No report
-* 4-Dec - Report 13
-* 11-Dec - Report 14
+* Monday, 1/15 at 8 am: Report 1
+* Monday, 1/22 at 8 am: Report 2
+* Monday, 1/29 at 8 am: Report 3
+* Monday, 2/5 at 8 am: Report 4
+* Monday, 2/12 at 8 am: Report 5
+* Monday, 2/19 at 8 am: Report 6
+* Monday, 2/26 at 8 am: Report 7
+* Monday, 3/5 at 8 am: Report 8
+* Spring Break
+* Monday, 3/19 at 8 am: Report 9
+* Monday, 3/26 at 8 am: Report 10
+* Monday, 4/2 at 8 am: Report 11
+* Monday, 4/9 at 8 am: Report 12
+* Monday, 4/16 at 8 am: Report 13
+* Monday, 4/23 at 8 am: Report 14 - Final Report
 
 Course Assessment
 -----------------

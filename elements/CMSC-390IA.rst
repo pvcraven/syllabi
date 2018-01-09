@@ -5,8 +5,9 @@ Course Details
 
 * Catalog course description:
 
-  Information assurance is the practice of managing information-related risks. More specifically, students in this
-  class will learn to protect and defend information and information systems by ensuring confidentiality, integrity,
+  Information assurance is the practice of managing information-related risks.
+  More specifically, students in this class will learn to protect and defend
+  information and information systems by ensuring confidentiality, integrity,
   authentication, availability, and non-repudiation of data.
 
 * Course level student learning objectives (SLOs):

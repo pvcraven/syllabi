@@ -1,9 +1,7 @@
 Course Details
 --------------
 
-* Course title:
-
-  CIS 390AG Advanced Game Design
+* Course title: **CIS 390AG Advanced Game Design**
 
 * Catalog course description:
 

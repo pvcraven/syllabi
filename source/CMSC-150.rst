@@ -43,7 +43,12 @@ There are three types of assignments:
 
 * Labs - 20 points, except the final lab which is 60 points
 * Quizzes - 10 points
-* On-line coding problems - 10 points
+* On-line coding problems
+
+The on-line coding problems are new, and I'm not sure how often we will
+have them, or how they will be graded. Right now I am leaning towards two
+points per problem, with an assortment of problems due at the same time as
+these problems below.
 
 Assignments are due by the time indicated below:
 
