@@ -12,5 +12,6 @@ through Dean's office. E-mail me that you will be gone so that I can check
 you off as excused.
 
 .. danger:: To be counted as attending class, the student must be present when the
-  instructor takes attendance. If a student leaves class early without prior
+  instructor takes attendance. Continually showing up to class late can really
+  hurt a student's grade. If a student leaves class early without prior
   permission, he or she will be counted as absent.

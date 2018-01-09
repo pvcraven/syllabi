@@ -1,16 +1,14 @@
 Course Details
 --------------
 
-* Course title:
-
-  CMSC 390IA Information Assurance
+* Course title: **CMSC 390IA Information Assurance**
 
 * Catalog course description:
 
-  Students in Advanced Game Design work in teams to create their own game using
-  the Unity Game Engine. Students will work with C#, JavaScript, 3-D modeling,
-  version control, physics engines, and manage the development schedule with
-  project management skills.
+  Information assurance is the practice of managing information-related risks.
+  More specifically, students in this class will learn to protect and defend
+  information and information systems by ensuring confidentiality, integrity,
+  authentication, availability, and non-repudiation of data.
 
 * Course level student learning objectives (SLOs):
 

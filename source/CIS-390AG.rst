@@ -39,7 +39,6 @@ Student Learning Outcomes for the Major
 
 .. include:: ../elements/CIS-SLO-1.rst
 .. include:: ../elements/CIS-SLO-2.rst
-.. include:: ../elements/CIS-SLO-3.rst
 
 .. include:: ../elements/contact_time_cis_320.rst
 
