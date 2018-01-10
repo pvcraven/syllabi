@@ -8,7 +8,7 @@ CIS 390AG - Advanced Gaming
 Schedule
 --------
 
-Class meets Monday/Wednesday/Friday from 8:00 am until 9:00 am.
+Class meets Monday/Wednesday/Friday from 2:10 pm until 3:10 pm.
 
 .. include:: ../elements/2018_sp_calendar.rst
 
