@@ -27,4 +27,4 @@ Course Details
   * Learn and use Content Management Systems (CMS)
   * Learn and use static content generators
 
-* Textbook: https://readthedocs.org/projects/web-development-class/
+* Textbook: https://web-development-class.readthedocs.io/

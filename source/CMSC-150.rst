@@ -11,13 +11,15 @@ Schedule
 Class meets:
 
 * Section A: MWF from 8:00 am until 9:00 am
+* Section B: MWF from 9:10 am until 10:10 am
 
 Class also has a required lab.
 
-* Section Z: Thur 2:10 pm - 3:40 pm
+* Section Y: Tues 9:40 am - 11:10 am
+* Section Z: Tues 2:10 pm - 3:40 pm
 
 
-.. include:: ../elements/2018_sp_calendar.rst
+.. include:: ../elements/2018_fa_calendar.rst
 
 Student Assessment
 ------------------
@@ -32,9 +34,9 @@ Student Assessment
 
 .. include:: ../elements/attendance_in_person_with_lab.rst
 
-.. Because there are two sections for the class, if have to miss one section but can
-   attend the other, please do. Please e-mail me a note so I can make sure to
-   mark you as having attended.
+Because there are two sections for the class, if have to miss one section but can
+attend the other, please do. Please e-mail me a note so I can make sure to
+mark you as having attended.
 
 Assignments
 ^^^^^^^^^^^

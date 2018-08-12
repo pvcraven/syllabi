@@ -6,9 +6,13 @@ CIS 120 Introduction to Web Development
 Note
 ^^^^
 
-There are many different areas of web development. We will be just scratching the surface of it. We will cover
-the main types of technical development, except for programming which is covered in the second semester.
-This class will start out hard and get easier.
+There are many different areas of web development. We will be just scratching
+the surface of the subject. We will cover the main types of technical web
+development, except for programming. Programming for the web is covered in the
+second semester.
+
+Note: Most people find this class starts out hard and gets easier.
+
 We will cover:
 
 * Version Control (hard)
@@ -19,8 +23,10 @@ We will cover:
 * Static Content Generators (easy)
 
 Just like a survey course in Sports, History, or Religion, you may find
-there are parts of this that you like and wish we covered more, and others less. Imagine you got to teach a course
-labeled "Sports" in college. What sports would you cover? And in how much depth? What sports would you have students try out?
+there are parts of this that you like and wish we covered more, and others less.
+Imagine you got to teach a course
+labeled "Sports" in college. What sports would you cover? And in how much depth?
+What sports would you have students try out?
 
 
 .. include:: ../elements/craven_instructor_info.rst
@@ -30,7 +36,7 @@ Schedule
 
 Class meets Tuesday and Thursday from 8:00 am until 9:30 am.
 
-.. include:: ../elements/2017_fa_calendar.rst
+.. include:: ../elements/2018_fa_calendar.rst
 
 Student Assessment
 ------------------
@@ -47,63 +53,32 @@ Student Assessment
 
 .. include:: ../elements/attendance_in_person.rst
 
-Because there are two sections for the class, if have to miss one section but can
-attend the other, please do. Please e-mail me a note so I can make sure to
-mark you as having attended.
-
 Assignments
 ^^^^^^^^^^^
 
-Assignments and quizzes will be worth 10 points.
+Assignments are usually worth 10 points, and quizzes worth 5 points. The
+assignments and quizzes will be:
 
-Assignments are due by the time indicated below:
+* Assignment 1 - Basic HTML
+* Assignment 2 - DVCS
+* Assignment 3 - CSS
+* Assignment 4 - Bootstrap
+* Assignment 5 - Project Finalization
+* Assignment 6 - AWS assignment
+* Assignment 7 - Using PHP "include"
+* Assignment 8 - DNS and Web Site Performance
+* Assignment 9 - WordPress Install
+* Assignment 10 - WordPress
+* Assignment 11 - Static Content Generators
+* Assignment 12 - Collaborative Leadership Reflection
+* Quiz 1 - HTML
+* Quiz 2 - DVCS
+* Quiz 3 - CSS
+* Quiz 4 - Command Line
+* Quiz 5 - Amazon Web Services
+* Quiz 6 - DNS and Cloud Hosting Quiz
 
-* Tuesday, Sept 12 at 8 am:
-
-  * Assignment 1 - Basic HTML
-
-* Thursday, Sept 14 at 8 am:
-
-  * Assignment 2 - DVCS
-
-* Tuesday, Sept 26 at 8 am:
-
-  * Assignment 3 - CSS
-
-* Tuesday, Oct 3 at 8 am:
-
-  * Assignment 4 - Bootstrap
-
-* Wednesday, Oct 11 at 8 am:
-
-  * Assignment 5 - Finalize Site
-
-* Tuesday, Oct 24 at 8 am:
-
-  * Assignment 6 - AWS Deployment
-
-* Friday, Nov 3 at 8 am:
-
-  * Assignment 7 - PHP Include
-
-* Friday, Nov 10 at 8 am:
-
-  * Assignment 8 - DNS and Performance
-
-* Tuesday, Nov 14 at 8 am:
-
-  * Assignment 9 - Install WordPress
-
-* Tuesday, Nov 21 at 8 am:
-
-  * Assignment 10 - WordPress Site
-
-* Tuesday, Dec. 12, 10 am:
-
-  * Assignment 11 - Static Content Generators
-  * Reflection
-
-There will also be quizzes, but I don't have a schedule on those yet.
+Due dates will be listed out on the class website.
 
 Course Assessment
 -----------------
