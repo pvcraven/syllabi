@@ -20,3 +20,4 @@ penalty, then that is subtracted next.
 
 If you want to calculate your grade, total up your points, divide by the total possible.
 Then take into account any attendance policy penalty.
+See the `attendance policy <#attendance-participation-policy>`_.

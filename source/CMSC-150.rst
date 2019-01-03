@@ -11,15 +11,12 @@ Schedule
 Class meets:
 
 * Section A: MWF from 8:00 am until 9:00 am
-* Section B: MWF from 9:10 am until 10:10 am
 
 Class also has a required lab.
 
-* Section Y: Tues 9:40 am - 11:10 am
-* Section Z: Tues 2:10 pm - 3:40 pm
+* Section Z: Thur 2:10 pm - 3:40 pm
 
-
-.. include:: ../elements/2018_fa_calendar.rst
+.. include:: ../elements/2019_sp_calendar.rst
 
 Student Assessment
 ------------------
@@ -54,75 +51,75 @@ these problems below.
 
 Assignments are due by the time indicated below:
 
-* Monday, Jan 15 at 8 am:
+* Monday, Jan 21 at 8 am:
 
   * Lab 1: First Program (Initial setup, BitBucket check-in, and
     simple program.)
   * Quiz 1
 
-* Monday, Jan 22 at 8 am:
+* Monday, Jan 28 at 8 am:
 
   * Lab 2: Draw a Picture
   * Quiz 2
 
-* Monday, Jan 29 at 8 am:
+* Monday, Feb 4 at 8 am:
 
   * Lab 3: Drawing with Functions
   * Quiz 3
 
-* Monday, Feb 5 at 8 am:
+* Monday, Feb 11 at 8 am:
 
   * Lab 4: Camel (Loops and Conditional Statements)
   * Quiz 4
 
-* Monday, Feb 12 at 8 am:
+* Monday, Feb 18 at 8 am:
 
   * Lab 5: Loopy Lab (Nested Loops)
   * Quiz 5
 
-* Monday, Feb 19 at 8 am:
+* Monday, Feb 25 at 8 am:
 
   * Lab 6: Text Adventure (Nested Loops, Text as Arrays)
   * Quiz 6
 
-* Monday, Feb 26 at 8 am:
+* Monday, Mar 4 at 8 am:
 
   * Lab 7: User Control (Joysticks and Keyboard Input)
   * Quiz 7
 
-* (Just after Spring Break) Tuesday, March 14 at 8 am:
+* March 10-16 - Spring Break
+
+* Tuesday, March 19 at 8 am (after spring break):
 
   * Lab 8: Sprites (Classes)
   * Quiz 8
 
-* Monday, March 19 at 8 am:
+* Monday, March 25 at 8 am:
 
   * Lab 9: Sprites and Walls (Classes)
   * Quiz 9
 
-* Monday, March 26 at 8 am:
+* Monday, April 1 at 8 am:
 
   * Lab 10: Spell Check (Linear and Binary Search)
   * Quiz 10
 
-* Tuesday, April 3 at 5 pm (Just after Easter recess, and before Campus Day):
+* Monday, April 8 at 8 am:
 
   * Lab 11: Array-Backed Grids (Two-Dimensional Arrays)
   * Quiz 11
 
-* Monday, Apr 9 at 8 am:
+* Monday, Apr 15 at 8 am:
 
   * Lab 12: Work on Final Lab
   * Quiz 12
 
-* Nothing due week of Nov 27
-
-* Monday, April 16 at 8 am:
+* Monday, April 22 at 8 am:
 
   * Quantitative Reasoning Reflection (20 points)
   * Quiz 13
 
-* Wednesday April 25 at 12:15 pm:
+* Wednesday May 1 at 12:15 pm:
 
   * Lab 12 - Final project due. No meeting for final. (60 points)
 
@@ -139,7 +136,7 @@ You may only resubmit a lab once, unless the first time was just a missing graph
 something like that.
 
 Exceptions: Time during Spring Break isn't counted towards the seven days. All
-assignments and regrades must be in by Wednesday April 25 at 12:15 pm, even if
+assignments and regrades must be in by Wednesday May 1, 12:15pm , even if
 you didn't get seven days.
 
 Course Assessment

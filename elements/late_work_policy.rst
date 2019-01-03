@@ -11,6 +11,6 @@ Late-Work/Make-up Work Policy
   lab is open. The McNeill lab is usually closed on Sunday nights, and
   assignments are due Monday morning. Not knowing when the lab is open is not
   accepted as an excuse.
-* If you are asked to use SourceTree to turn in homework, make sure you understand
-  how to merge code. It isn't fun to have SourceTree reject your push when trying
+* If you are asked to use ``git`` to turn in homework, make sure you understand
+  how to merge code. It isn't fun to have ``git`` reject your push when trying
   to finish it up the night before it is due.
