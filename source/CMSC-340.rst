@@ -1,14 +1,14 @@
-CIS 320 Advanced Web Development and Security
-=============================================
+CMSC 340 Computer Networking
+============================
 
-.. include:: ../elements/CIS-320.rst
+.. include:: ../elements/CMSC-340.rst
 
 .. include:: ../elements/craven_instructor_info.rst
 
 Schedule
 --------
 
-Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
+Class meets Tuesday/Thursday from 9:40 am until 11:20 am.
 
 .. include:: ../elements/2019_sp_calendar.rst
 
@@ -28,27 +28,8 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-* Lab 1: Programming Environment Setup Assignment
-* Lab 2: JavaScript Assignment
-* Lab 3: List DB Records in JSON Format Assignment
-* Lab 4: List Records - Final Assignment
-* Lab 5: Form Validation Assignment
-* Lab 6: Insert a Record Assignment
-* Lab 7: Security Writing
-* Lab 8: Back-End Validation and Deleting Records
-* Lab 9: Editing a record
-* Lab 10: Login Assignment
-* Lab 11: Final Lab
-
-There will also be quizzes.
-
 Course Assessment
 -----------------
-
-Engaged Citizenship Grids
-^^^^^^^^^^^^^^^^^^^^^^^^^
-
-.. include:: ../elements/ECC-WC-CIS-320.rst
 
 Student Learning Outcomes for the Major
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^

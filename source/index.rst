@@ -12,6 +12,7 @@ Contents:
    CMSC-150
    CIS-160
    CIS-320
+   CMSC-340
    CMSC-385
    CIS-385
    CMSC-386
