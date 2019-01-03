@@ -4,6 +4,7 @@ Course Details
 * Course title:
 
   CIS 320 Advanced Web Development and Security
+
 * Catalog course description:
 
   This class covers server and client side programming and security. Students

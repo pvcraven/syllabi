@@ -11,6 +11,7 @@ Mid-Term Date                            Mar-06
 Mid-Term Grades Due                      Feb-28
 Spring Break                           Mar 9-17
 Last Day to Withdraw                     Mar-27
+Campus Day                               Apr-03
 Easter Recess                            Apr-22
 Honors Convocation Ceremony              Apr-24
 Research Symposium (No Class)            Apr-25

@@ -8,11 +8,9 @@ CIS 320 Advanced Web Development and Security
 Schedule
 --------
 
-Class meets Monday/Wednesday/Friday from 8:00 am until 9:00 am.
+Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
 
-Lab meets Tuesday from 2:10 pm until 3:40 pm.
-
-.. include:: ../elements/2017_sp_calendar.rst
+.. include:: ../elements/2019_sp_calendar.rst
 
 Student Assessment
 ------------------
@@ -38,25 +36,17 @@ Assignments will involve a 10 point quiz and a 20 point lab. The exceptions will
 be Assignment 7 and Assignment 13. These are written reports that will be worth
 30 points (Assignment 7) and 50 points (Assignment 13).
 
-* Monday, Jan 16 at 8 am: Assignment 1 - Create your own web development stack
-* Monday, Jan 23 at 8 am: Assignment 2 - Submit and validate a form via JavaScript
-* Monday, Jan 30 at 8 am: Assignment 3 - Insert new records in a database
-* Monday, Feb 06 at 8 am: Assignment 4 - Update and delete records in a database
-* Monday, Feb 13 at 8 am: Assignment 5 - Add the ability to log in
-* Monday, Feb 20 at 8 am: Assignment 6 - Hashing and Encryption
-* Monday, Feb 27 at 8 am: Assignment 7 - Research and write a plan for doing
-  security testing for a website
-* Monday, Mar 06: Spring Break - No assignment
-* Monday, Mar 13 at 8 am: Assignment 8 - Update the "Create Read Update Delete"
-  application to use JavaScript, jQuery, and JSON
-* Monday, Mar 20 at 8 am: Assignment 9 - Create an graphing application that
-  uses the D3 library
-* Monday, Mar 27 at 8 am: Assignment 10 - TBD
-* Monday, Apr 03 at 8 am: Assignment 11 - TBD
-* Monday, Apr 10 at 8 am: Assignment 12 - TBD
-* Monday, Apr 17: Work on final project
-* Tuesday, Apr 25 at 10 am: Assignment 13 - Final report, write up a tutorial on
-  how to use a new web technology
+* Lab 1: Programming Environment Setup Assignment
+* Lab 2: JavaScript Assignment
+* Lab 3: List DB Records in JSON Format Assignment
+* Lab 4: List Records - Final Assignment
+* Lab 5: Form Validation Assignment
+* Lab 6: Insert a Record Assignment
+* Lab 7: Security Writing
+* Lab 8: Back-End Validation and Deleting Records
+* Lab 9: Editing a record
+* Lab 10: Login Assignment
+* Lab 11: Final Lab
 
 Course Assessment
 -----------------
