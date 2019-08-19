@@ -10,7 +10,7 @@ Schedule
 
 Class meets Monday/Wednesday/Friday from 2:10 pm until 3:10 pm.
 
-.. include:: ../elements/2018_sp_calendar.rst
+.. include:: ../elements/2019_fa_calendar.rst
 
 Student Assessment
 ------------------

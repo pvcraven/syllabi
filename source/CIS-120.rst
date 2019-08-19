@@ -34,9 +34,9 @@ What sports would you have students try out?
 Schedule
 --------
 
-Class meets Tuesday and Thursday from 8:00 am until 9:30 am.
+Class meets Tuesday and Thursday from 2:10 pm until 3:40 am.
 
-.. include:: ../elements/2018_fa_calendar.rst
+.. include:: ../elements/2019_fa_calendar.rst
 
 Student Assessment
 ------------------
