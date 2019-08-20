@@ -1,0 +1,61 @@
+Date	Topic	Assignments due
+"Tue, Aug 27"	Lab 1 - Print statements and version control systems	
+"Wed, Aug 28"	Understanding and setting up your system	
+"Fri, Aug 30"	"Drawing with Python, repl.it practice problems"	
+"Mon, Sep 02"	Labor Day	
+"Tue, Sep 03"	Lab 2 - Drawing	"Quiz 1, repl 01, Lab 1 due 8 am"
+"Wed, Sep 04"	Variables and Expressions	
+"Fri, Sep 06"	Functions	
+"Mon, Sep 09"	Drawing with Functions / repl.it 02	
+"Tue, Sep 10"	Lab 3 - Drawing with Functions	"Quiz 2, Lab 2 due 8 am"
+"Wed, Sep 11"	If statements	
+"Fri, Sep 13"	"Loops and random numbers, work on repl 03 conditionals"	
+"Mon, Sep 16"	"Loops and random numbers, work on repl 03 conditionals"	
+"Tue, Sep 17"	Lab 4 - Camel game	"Quiz 3, repl 02, Lab 3 due 8 am"
+"Wed, Sep 18"	Repl.it 04 looping and problems	
+"Fri, Sep 20"	Repl.it 05 advanced looping problems	
+"Mon, Sep 23"	Introduction to lists	
+"Tue, Sep 24"	Lab 5 - Loopy lab	"Quiz 4, repl 03, repl 04, repl 05, Lab 3 due 8 am"
+"Wed, Sep 25"	Introduction to lists	
+"Fri, Sep 27"	Classes	
+"Mon, Sep 30"	Classes / work on repl.it 06 lists	
+"Tue, Oct 01"	Lab 6 - Text adventure	"Quiz 5, Lab 4 due 8 am"
+"Wed, Oct 02"	Window class and user control	
+"Fri, Oct 04"	User control	
+"Mon, Oct 07"	Sound effects / Sprites and collisions	
+"Tue, Oct 08"	Lab 7 - User control of games	"Quiz 6, Lab 6 due 8 am"
+"Wed, Oct 09"	Sprites and collisions / Moving sprites	
+"Fri, Oct 11"	Shooting sprites examples	
+"Mon, Oct 14"	Work on repl.it	
+"Tue, Oct 15"	Lab 8 - Sprites	"Quiz 7, repl.it 06, Lab 7 due 8 am"
+"Wed, Oct 16"	Sprites and walls / placement and collision	
+"Fri, Oct 18"	Sprites and walls / scrolling	
+"Mon, Oct 21"	Libraries and modules	
+"Tue, Oct 22"	Lab 9 - Sprites and walls	"Quiz 8, Lab 8 due 8 am"
+"Wed, Oct 23"	Reading in files / linear search	
+"Fri, Oct 25"	Fall Break	
+"Mon, Oct 28"	Binary search	
+"Tue, Oct 29"	Lab 10 - Spell check	"Quiz 9, Lab 9 due 8 am"
+"Wed, Oct 30"	"Spell check lab, repl.it"	
+"Fri, Nov 01"	Array-backed grids part 1	
+"Mon, Nov 04"	Array-backed grids part 2	
+"Tue, Nov 05"	Lab 11 - Array-backed grids	"No quiz, repl 07, Lab 10 due 8 am"
+"Wed, Nov 06"	Platformers	
+"Fri, Nov 08"	Platformers	
+"Mon, Nov 11"	Swapping values and the selection sort	
+"Tue, Nov 12"	"Lab 12 - Final lab, part 1"	"Quiz 10, Lab 11 due 8 am"
+"Wed, Nov 13"	Insertion sort / Sorting worksheet	
+"Fri, Nov 15"	Print formatting / Exceptions	
+"Mon, Nov 18"	"Stuff you should know, Part 1"	
+"Tue, Nov 19"	"Lab 12 - Final lab, part 2"	"Lab 12p1, Sorting worksheet due 8 am"
+"Wed, Nov 20"	"Stuff you should know, Part 2"	
+"Fri, Nov 22"	Recursion	
+"Mon, Nov 25"	Work on final lab	
+"Tue, Nov 26"	No lab	
+"Wed, Nov 27"	Thanksgiving Break	
+"Fri, Nov 29"	Thanksgiving Break	
+"Mon, Dec 02"	Quantitatieve Reasoning Assignment	
+"Tue, Dec 03"	"Lab 12 - Final lab, part 3"	"Lab 12p2, Quantitative reasoning assignment due 8 am"
+"Wed, Dec 04"	Work on quantitative reasining assignment	
+"Fri, Dec 06"	Work on final lab	
+Final	Show off final projects	Final lab due

@@ -42,86 +42,11 @@ There are three types of assignments:
 
 * Labs - 20 points, except the final lab which is 60 points
 * Quizzes - 10 points
-* On-line coding problems
+* On-line repl.it coding problems, 2 pts each
 
-The on-line coding problems are new, and I'm not sure how often we will
-have them, or how they will be graded. Right now I am leaning towards two
-points per problem, with an assortment of problems due at the same time as
-these problems below.
-
-Assignments are due by the time indicated below:
-
-* Monday, Jan 21 at 8 am:
-
-  * Lab 1: First Program (Initial setup, BitBucket check-in, and
-    simple program.)
-  * Quiz 1
-
-* Monday, Jan 28 at 8 am:
-
-  * Lab 2: Draw a Picture
-  * Quiz 2
-
-* Monday, Feb 4 at 8 am:
-
-  * Lab 3: Drawing with Functions
-  * Quiz 3
-
-* Monday, Feb 11 at 8 am:
-
-  * Lab 4: Camel (Loops and Conditional Statements)
-  * Quiz 4
-
-* Monday, Feb 18 at 8 am:
-
-  * Lab 5: Loopy Lab (Nested Loops)
-  * Quiz 5
-
-* Monday, Feb 25 at 8 am:
-
-  * Lab 6: Text Adventure (Nested Loops, Text as Arrays)
-  * Quiz 6
-
-* Monday, Mar 4 at 8 am:
-
-  * Lab 7: User Control (Joysticks and Keyboard Input)
-  * Quiz 7
-
-* March 10-16 - Spring Break
-
-* Tuesday, March 19 at 8 am (after spring break):
-
-  * Lab 8: Sprites (Classes)
-  * Quiz 8
-
-* Monday, March 25 at 8 am:
-
-  * Lab 9: Sprites and Walls (Classes)
-  * Quiz 9
-
-* Monday, April 1 at 8 am:
-
-  * Lab 10: Spell Check (Linear and Binary Search)
-  * Quiz 10
-
-* Monday, April 8 at 8 am:
-
-  * Lab 11: Array-Backed Grids (Two-Dimensional Arrays)
-  * Quiz 11
-
-* Monday, Apr 15 at 8 am:
-
-  * Lab 12: Work on Final Lab
-  * Quiz 12
-
-* Monday, April 22 at 8 am:
-
-  * Quantitative Reasoning Reflection (20 points)
-  * Quiz 13
-
-* Wednesday May 1 at 12:15 pm:
-
-  * Lab 12 - Final project due. No meeting for final. (60 points)
+.. csv-table:: CMSC 150 Schedule
+   :file: cmsc150.txt
+   :delim: tab
 
 .. note:: Labs can be resubmitted once for more points.
 
@@ -135,9 +60,8 @@ to grade it. Committing and pushing the file to Bitbucket isn't enough.
 You may only resubmit a lab once, unless the first time was just a missing graphic or
 something like that.
 
-Exceptions: Time during Spring Break isn't counted towards the seven days. All
-assignments and regrades must be in by Wednesday May 1, 12:15pm , even if
-you didn't get seven days.
+Exceptions: Time during Fall and Thanksgiving Break aren't counted towards the
+seven days.
 
 Course Assessment
 -----------------
