@@ -1,0 +1,35 @@
+Date		Topic	Assignments due	Quizzes due
+Tue	Aug 27	Syllabus		
+		Text Editors		
+Thu	Aug 29	HTML Tutorial		
+Tue	Sep 03	Showing File Extensions		Quiz 1 - Web Concepts
+		Assignment 1 - HTML		
+Thu	Sep 05	Directory Tutorial		
+		DVCS Concepts		
+Tue	Sep 10	Git tutorial		Quiz 2
+Thu	Sep 12	CSS		
+Tue	Sep 17	"DVCS Branching, CSS assignment"	Assignment 1 - HTML	Quiz 3 - DVCS
+Thu	Sep 19	"CSS Layout, work on CSS assignment"	Assignment 2 - DVCS	Quiz 4 - CSS
+Tue	Sep 24	Bootstrap tutorial		
+Thu	Sep 26	Bootstrap Grid	Assignment 3 - CSS	
+Tue	Oct 01	"Collaboration, github issues, brainstorm assignment 5"	Assignment 4 - Bootstrap	
+Thu	Oct 03	Work on assignment 5		
+Tue	Oct 08	Amazon Web Services - get account. Planning period for Assignment 5 presentation	Assignment 5 - Final Project Version	
+Thu	Oct 10	"Present Assignment 5, AWS tutorial"	Assignment 6 - AWS Setup	
+Tue	Oct 15	Command line tutorial		
+Thu	Oct 17	AWS setup	"Assignment 7 - Using PHP ""include"""	Quiz 5 - CMD
+Tue	Oct 22	Talk about appliication servers		Quiz 6 AWS
+Thu	Oct 24	Fall break	Assignment 8 - DNS and Web Site performance	Quiz 7 Cloud
+Tue	Oct 29	Explain DNS		
+Thu	Oct 31	Content management systems	Assignment 9 - WordPress Install	
+Tue	Nov 05	Work on WordPress		
+Thu	Nov 07	Work on WordPress		
+Tue	Nov 12	Scalable Vector Graphics	Assignment 10 - WordPress	
+Thu	Nov 14	Google analytics / SVG work		
+Tue	Nov 19	Static Content Generators / Sphinx / RST		
+Thu	Nov 21	Get started on assignment 12	Assignment 11 - SVG	
+Tue	Nov 26	Work on Assignment 12		
+Thu	Nov 28	Thanksgiving break		
+Tue	Dec 03	"Videos on Advanced DNS, Load Balancing,CDN. Work on S3"		
+Thu	Dec 05	Polish final website	Collaborative Leadership Reflection	
+Final		Present projects	Assignment 12 - Static content website	

@@ -38,6 +38,11 @@ Class meets Tuesday and Thursday from 2:10 pm until 3:40 am.
 
 .. include:: ../elements/2019_fa_calendar.rst
 
+.. csv-table:: CIS 120 Schedule
+   :file: cis120.txt
+   :delim: tab
+
+
 Student Assessment
 ------------------
 
