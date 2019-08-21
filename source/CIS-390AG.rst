@@ -8,9 +8,24 @@ CIS 390AG - Advanced Gaming
 Schedule
 --------
 
-Class meets Monday/Wednesday/Friday from 2:10 pm until 3:10 pm.
+Class meets Tuesday/Thursday from 11:20 am until 12:50 pm.
 
 .. include:: ../elements/2019_fa_calendar.rst
+
+The first 1/3 to 1/2 of the class will be on building skills. The last half will be working in one or more teams
+on a cooperative project using the Agile methodology.
+
+To begin with, we will cover the following topics, and have an assignment for each one:
+
+* Initial tutorial on Blender
+* Initial Unity concepts
+* Basic C#
+* Unity Roll-a-ball
+* Learning to move assets from Blender to Unity
+* Using Git with Unity, managing forks, branches and pull requests
+* Agile methodology
+
+After that we will introduce the final project and move into "sprints" where we will grade work on a weekly basis.
 
 Student Assessment
 ------------------
