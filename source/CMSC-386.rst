@@ -28,21 +28,21 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-* Monday, 1/15 at 8 am: Report 1
-* Monday, 1/22 at 8 am: Report 2
-* Monday, 1/29 at 8 am: Report 3
-* Monday, 2/5 at 8 am: Report 4
-* Monday, 2/12 at 8 am: Report 5
-* Monday, 2/19 at 8 am: Report 6
-* Monday, 2/26 at 8 am: Report 7
-* Monday, 3/5 at 8 am: Report 8
-* Spring Break
-* Monday, 3/19 at 8 am: Report 9
-* Monday, 3/26 at 8 am: Report 10
-* Monday, 4/2 at 8 am: Report 11
-* Monday, 4/9 at 8 am: Report 12
-* Monday, 4/16 at 8 am: Report 13
-* Monday, 4/23 at 8 am: Report 14 - Final Report
+* Monday, 9/2 at 8 am: Report 1
+* Monday, 9/9 at 8 am: Report 2
+* Monday, 9/16 at 8 am: Report 3
+* Monday, 9/23 at 8 am: Report 4
+* Monday, 9/30 at 8 am: Report 5
+* Monday, 10/7 at 8 am: Report 6
+* Monday, 10/14 at 8 am: Report 7
+* Monday, 10/21 at 8 am: Report 8
+* Monday, 10/28 at 8 am: Report 9
+* Monday, 11/4 at 8 am: Report 10
+* Monday, 11/11 at 8 am: Report 11
+* Monday, 11/18 at 8 am: Report 12
+* Monday, 11/25 at 8 am: Report 13
+* Monday, 12/2 at 8 am: No report - Thanksgiving Break
+* Tuesday, 12/3 at 8 am: Report 14 - Final Report
 
 Course Assessment
 -----------------
