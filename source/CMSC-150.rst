@@ -14,7 +14,7 @@ Class meets:
 
 Class also has a required lab.
 
-* Section Z: Tue 2:10 pm - 3:40 pm
+* Section Z: Tue 9:40 am - 11:10 am
 
 .. include:: ../elements/2019_fa_calendar.rst
 
