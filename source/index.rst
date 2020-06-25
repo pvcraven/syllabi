@@ -8,6 +8,7 @@ Contents:
 .. toctree::
    :maxdepth: 1
 
+   SC-101
    CIS-120
    CMSC-150
    CIS-160
