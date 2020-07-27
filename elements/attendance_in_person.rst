@@ -12,6 +12,13 @@ through Dean's office. E-mail me that you will be gone so that I can check
 you off as excused.
 
 .. danger:: To be counted as attending class, the student must be present when the
-  instructor takes attendance. Continually showing up to class late can really
-  hurt a student's grade. If a student leaves class early without prior
-  permission, he or she will be counted as absent.
+  instructor takes attendance. Showing up to class 10 minutes late does not count
+  towards attendance. Therefore continually showing up to class late can really
+  hurt a student's grade. If a student leaving class early with prior
+  permission will be counted as absent.
+
+**COVID-19 Update:** Because of COVID-19 we may need to adjust things. It is my
+current intention to accommodate anyone wishing attending via Zoom instead
+if they desire.
+That said, this is not intended as a purely on-line class and the college still
+assumes you'll be residing on-campus.

@@ -12,9 +12,7 @@ Class meets Monday, Tuesday, and Friday from 1:00 pm until 2:00 pm.
 
 .. include:: ../elements/2020_fa_calendar.rst
 
-.. csv-table:: SC 101 Schedule
-   :file: sc101.txt
-   :delim: tab
+Daily class schedule: https://whedon-sc101.readthedocs.io/en/latest/schedule.html
 
 
 Student Assessment
@@ -31,7 +29,7 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-
+Assignments are listed here: https://whedon-sc101.readthedocs.io/en/latest/#assignments
 
 Course Assessment
 -----------------
@@ -39,8 +37,9 @@ Course Assessment
 Engaged Citizenship
 ^^^^^^^^^^^^^^^^^^^
 
-.. include:: ../elements/ECC-WC-SC-101.rst
+.. include:: ../elements/ECC-CT-SC-101.rst
 
+.. include:: ../elements/ECC-WC-SC-101.rst
 
 .. include:: ../elements/contact_time_sc_101.rst
 
@@ -56,3 +55,5 @@ Policies and Procedures
 .. include:: ../elements/inclusive_explanation_statement.rst
 
 .. include:: ../elements/title_ix.rst
+
+.. include:: ../elements/covid_extra.rst

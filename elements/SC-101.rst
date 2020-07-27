@@ -14,9 +14,14 @@ Course Details
   in society.
   CRITTHNK, WRITCOM. Four credits.
 
-* Course level student learning objectives (SLOs):
+* Course level student learning objectives (SLOs).
 
-  * Learn to write
+  * Get introduced to college (academic resource center, career services department,
+    library, study abroad, counseling services, mentors in violence, student
+    activities, and more)
+  * Learn to write at a college level. Express your idea, create a thesis,
+    edit and correct for grammar, provide evidence to support claims, and structure
+    your writing in a logical fashion.
   * Learn to think critically
 
 * Textbook: None

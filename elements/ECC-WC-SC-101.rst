@@ -23,18 +23,18 @@ A student who completes a WC course will be able to...
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
 | Student Learning Objective (SLO)                       | Class activities directly relating to this SLO | Student work to be evaluated for this SLO |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
-| WC SLO1.         | articulate an idea and formulate a  | Lecture, quizzes, labs                         | Tutorial on how and why to use a new web  |
-|                  | thesis as appropriate to the        |                                                | technology                                |
+| WC SLO1.         | articulate an idea and formulate a  | Class writing activities                       | Final paper                               |
+|                  | thesis as appropriate to the        |                                                |                                           |
 |                  | discipline                          |                                                |                                           |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
-| WC SLO2.         | identify and correct errors in      | Lecture, quizzes, labs                         | Students review each other's tutorial     |
+| WC SLO2.         | identify and correct errors in      | Class writing activities                       | Students review each other's final paper  |
 |                  | grammar and/or style in written     |                                                | draft and turn in a marked-up copy        |
 |                  | communication                       |                                                |                                           |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
-| WC SLO3.         | provide credible evidence to        | Lecture, quizzes, labs                         | Tutorial on how and why to use a new web  |
-|                  | support claims and arguments in     |                                                | technology                                |
+| WC SLO3.         | provide credible evidence to        | Class writing activities                       | Final paper                               |
+|                  | support claims and arguments in     |                                                |                                           |
 |                  | written communication               |                                                |                                           |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
-| WC SLO4.         | organize thoughts in a logical      | Lecture, quizzes, labs                         | Tutorial on how and why to use a new web  |
-|                  | fashion in written communication    |                                                | technology                                |
+| WC SLO4.         | organize thoughts in a logical      | Class writing activities                       | Final paper                               |
+|                  | fashion in written communication    |                                                |                                           |
 +------------------+-------------------------------------+------------------------------------------------+-------------------------------------------+
