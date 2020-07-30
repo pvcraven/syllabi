@@ -91,3 +91,5 @@ Policies and Procedures
 .. include:: ../elements/inclusive_explanation_statement.rst
 
 .. include:: ../elements/title_ix.rst
+
+.. include:: ../elements/covid_extra.rst
