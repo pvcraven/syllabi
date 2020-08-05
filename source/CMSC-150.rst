@@ -13,6 +13,17 @@ Thursday 2:10 pm until 3:40 pm.
 
 .. include:: ../elements/2020_fa_calendar.rst
 
+.. _class_calendar:
+
+Class Calendar
+^^^^^^^^^^^^^^
+
+.. csv-table::
+   :file: cmsc-150-schedule.csv
+   :widths: 18 60 22
+   :header-rows: 1
+
+
 Student Assessment
 ------------------
 
@@ -34,10 +45,6 @@ There are three types of assignments:
 * Labs - 20 points, except the final lab which is 60 points
 * Quizzes - 10 points
 * On-line repl.it coding problems, 2 pts each
-
-.. csv-table:: CMSC 150 Schedule
-   :file: cmsc-150-schedule.csv
-   :widths: 18 60 22
 
 .. note:: Labs can be resubmitted once for more points.
 
