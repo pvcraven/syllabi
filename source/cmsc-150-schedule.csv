@@ -1,0 +1,60 @@
+﻿Date,Class Activity,Due
+Mon 8/24,Understanding and setting up your system,
+Wed 8/26,"Drawing with Python, repl.it practice problems",
+Thu 8/27,Lab 1 - Print statements and version control systems,
+Fri 8/28,Variables and Expressions,
+Mon 8/31,Functions,Quiz 1 @ 8 am
+Wed 9/2,Drawing with Functions / repl.it 02,
+Thu 9/3,Lab 2 - Drawing,Lab 1 @ 2:40 pm
+Fri 9/4,If statements,
+Mon 9/7,"Loops and random numbers, work on repl 03 conditionals",Quiz 2 @ 8 am
+Wed 9/9,"Loops and random numbers, work on repl 03 conditionals",
+Thu 9/10,Lab 3 - Drawing with Functions,Lab 2 @ 2:40 pm
+Fri 9/11,Repl.it 04 looping and problems,
+Mon 9/14,Repl.it 05 advanced looping problems,Quiz 3 @ 8 am
+Wed 9/16,Introduction to lists,
+Thu 9/17,Lab 4 - Camel game,Lab 3 @ 2:40 pm
+Fri 9/18,Introduction to lists,
+Mon 9/21,Classes,Quiz 4 @ 8 am
+Wed 9/23,Classes / work on repl.it 06 lists,
+Thu 9/24,Lab 5 - Loopy lab,Lab 4 @ 2:40 pm
+Fri 9/25,Window class and user control,
+Mon 9/28,User control,Quiz 5 @ 8 am
+Wed 9/30,Sound effects / Sprites and collisions,
+Thu 10/1,Lab 6 - Text adventure,Lab 5 @ 2:40 pm
+Fri 10/2,Sprites and collisions / Moving sprites,
+Mon 10/5,Shooting sprites examples,
+Wed 10/7,Work on repl.it,
+Thu 10/8,Lab 7 - User control of games,Lab 6 @ 2:40 pm
+Fri 10/9,Sprites and walls / placement and collision,
+Mon 10/12,Sprites and walls / scrolling,Quiz 6 @ 8 am
+Wed 10/14,Libraries and modules,
+Thu 10/15,Lab 8 - Sprites,Lab 7 @ 2:40 pm
+Fri 10/16,Reading in files / linear search,
+Mon 10/19,Binary search,Quiz 7 @ 8 am
+Wed 10/21,"Spell check lab, repl.it",
+Thu 10/22,Lab 9 - Sprites and walls,Lab 8 @ 2:40 pm
+Fri 10/23,Array-backed grids part 1,
+Mon 10/26,Array-backed grids part 2,
+Wed 10/28,Platformers,
+Thu 10/29,Lab 10 - Spell check,Lab 9 @ 2:40 pm
+Fri 10/30,Platformers,
+Mon 11/2,Swapping values and the selection sort,Quiz 8 @ 8 am
+Wed 11/4,Insertion sort / Sorting worksheet,
+Thu 11/5,Lab 11 - Array-backed grids,Lab 10 @ 2:40 pm
+Fri 11/6,Print formatting / Exceptions,
+Mon 11/9,"Stuff you should know, Part 1",Quiz 9 @ 8 am
+Wed 11/11,"Stuff you should know, Part 2",
+Thu 11/12,"Lab 12 - Final lab, part 1",Lab 11 @ 2:40 pm
+Fri 11/13,Recursion,
+Mon 11/16,Work on final lab,
+Wed 11/18,Quantitative Reasoning Assignment,
+Thu 11/19,"Lab 12 - Final lab, part 2",QR Assignment @ 2:40 pm
+Fri 11/20,Work on quantitative reasining assignment,
+Mon 11/23,Work on final lab,Quiz 10 @ 8 am
+Wed 11/25,Thanksgiving Break,
+Thu 11/26,Thanksgiving Break,
+Fri 11/27,Thanksgiving Break,
+Mon 11/30,Work on final lab (via zoom),
+Tue 12/1,Reading Day,
+Final,"Show off final projects, no test","Lab 12, all repl's"

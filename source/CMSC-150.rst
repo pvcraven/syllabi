@@ -8,15 +8,10 @@ CMSC 150 Introduction to Programming
 Schedule
 --------
 
-Class meets:
+Class meets MWF from 11:30 am until 12:30 pm and it also has a lab
+Thursday 2:10 pm until 3:40 pm.
 
-* Section A: MWF from 9:10 am until 10:10 am
-
-Class also has a required lab.
-
-* Section Z: Tue 9:40 am - 11:10 am
-
-.. include:: ../elements/2019_fa_calendar.rst
+.. include:: ../elements/2020_fa_calendar.rst
 
 Student Assessment
 ------------------
@@ -31,10 +26,6 @@ Student Assessment
 
 .. include:: ../elements/attendance_in_person_with_lab.rst
 
-Because there are two sections for the class, if have to miss one section but can
-attend the other, please do. Please e-mail me a note so I can make sure to
-mark you as having attended.
-
 Assignments
 ^^^^^^^^^^^
 
@@ -45,8 +36,8 @@ There are three types of assignments:
 * On-line repl.it coding problems, 2 pts each
 
 .. csv-table:: CMSC 150 Schedule
-   :file: cmsc150.txt
-   :delim: tab
+   :file: cmsc-150-schedule.csv
+   :widths: 18 60 22
 
 .. note:: Labs can be resubmitted once for more points.
 
@@ -60,8 +51,8 @@ to grade it. Committing and pushing the file to Bitbucket isn't enough.
 You may only resubmit a lab once, unless the first time was just a missing graphic or
 something like that.
 
-Exceptions: Time during Fall and Thanksgiving Break aren't counted towards the
-seven days.
+Exceptions: Normally time during Fall and Thanksgiving Break aren't counted towards the
+seven days, although that doesn't matter this year.
 
 Course Assessment
 -----------------
