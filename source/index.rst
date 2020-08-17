@@ -11,6 +11,7 @@ Fall 2020 Classes
    SC-101
    CIS-120
    CMSC-150
+   CMSC-386
 
 Important info:
 
@@ -29,7 +30,6 @@ Older Classes:
    CMSC-340
    CMSC-385
    CIS-385
-   CMSC-386
    CIS-386
    CMSC-390IA
    CIS-390AG
