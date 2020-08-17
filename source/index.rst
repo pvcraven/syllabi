@@ -3,7 +3,7 @@
 Computer Science Department Syllabuses
 ======================================
 
-Contents:
+Fall 2020 Classes
 
 .. toctree::
    :maxdepth: 1
@@ -11,6 +11,19 @@ Contents:
    SC-101
    CIS-120
    CMSC-150
+
+Important info:
+
+.. toctree::
+   :maxdepth: 1
+
+   discord/index
+
+Older Classes:
+
+.. toctree::
+   :maxdepth: 1
+
    CIS-160
    CIS-320
    CMSC-340
@@ -21,7 +34,3 @@ Contents:
    CMSC-390IA
    CIS-390AG
 
-.. toctree::
-   :maxdepth: 1
-
-   discord/index
