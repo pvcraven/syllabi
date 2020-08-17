@@ -9,6 +9,10 @@ similar to discord:
 * `Microsoft Teams <https://www.microsoft.com/en-us/microsoft-365/microsoft-teams/group-chat-software>`_
 * `Mattermost <https://mattermost.com/>`_
 
+You'll need to create an account for Discord. Your display name for discord must
+be recognizable as your actual real-life name. (Note: You can change your display
+name on a per-server basis, if you use discord for gaming.)
+
 This is the main window for Discord:
 
 .. image:: main_window.png
