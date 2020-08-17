@@ -20,3 +20,8 @@ Contents:
    CIS-386
    CMSC-390IA
    CIS-390AG
+
+.. toctree::
+   :maxdepth: 1
+
+   discord/index
