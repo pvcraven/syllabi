@@ -19,6 +19,7 @@ Important info:
    :maxdepth: 1
 
    discord/index
+   ask_question/how_to_ask_a_question
 
 Older Classes:
 
