@@ -36,11 +36,10 @@ Schedule
 
 Class meets Tuesday and Thursday from 2:10 pm until 3:40 am.
 
-.. include:: ../elements/2019_fa_calendar.rst
+.. include:: ../elements/2020_fa_calendar.rst
 
-.. csv-table:: CIS 120 Schedule
-   :file: cis120.txt
-   :delim: tab
+For a full schedule, see:
+https://web-development-class.readthedocs.io/en/latest/semester_1/schedule.html
 
 
 Student Assessment
