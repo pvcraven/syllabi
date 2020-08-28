@@ -1,15 +1,16 @@
-﻿Date,Class Activity,Due
+Date,Class Activity,Due
 Mon 8/24,Syllabus,
 ,Using Discord for help,
 Wed 8/26,"Chapter 1, why learn programming?",
 ,"Chapter 2, understanding and setting up your system",
 ,"Chapter 3, version control systems",
 ,Continue with unfinished items from Monday,
-,"Chapter 4, Drawing with Python, repl.it practice problems",
+,"Chapter 4, The Print Function",
 Thu 8/27,Lab 1 - Print statements and version control systems,"Have Discord, PyCharm, Python, and Git installed"
 ,,Drop by Wed evening office hours if needed
-Fri 8/28,Variables and Expressions,
-Mon 8/31,Functions,Quiz 1 @ 8 am
+Fri 8/28,"Chapter 5, Drawing with Python",
+Mon 8/31,Variables and Expressions,
+,Functions,Quiz 1 @ 8 am
 Wed 9/2,Drawing with Functions / repl.it 02,
 Thu 9/3,Lab 2 - Drawing,Lab 1 @ 2:40 pm
 Fri 9/4,If statements,
