@@ -1,4 +1,4 @@
-﻿Date,Class Activity,Due
+Date,Class Activity,Due
 Mon 8/24,Syllabus,
 ,Using Discord for help,
 Wed 8/26,"Chapter 1, why learn programming?",
@@ -9,15 +9,15 @@ Wed 8/26,"Chapter 1, why learn programming?",
 Thu 8/27,Lab 1 - Print statements and version control systems,"Have Discord, PyCharm, Python, and Git installed"
 ,,Drop by Wed evening office hours if needed
 Fri 8/28,"Chapter 5, Drawing with Python",
-Mon 8/31,"Chapter 7, Variables and Expressions",
-,"Chapter 8, Functions",Quiz 1 @ 8 am
-Wed 9/2,"Chapter 9, Drawing with Functions / repl.it 02",
+Mon 8/31,"Chapter 7, Variables and Expressions",Quiz 1 @ 8 am
+Wed 9/2,"No class, protest",
 Thu 9/3,Lab 2 - Drawing,Lab 1 @ 2:40 pm
-Fri 9/4,If statements,
-Mon 9/7,"Loops and random numbers, work on repl 03 conditionals",Quiz 2 @ 8 am
-Wed 9/9,"Loops and random numbers, work on repl 03 conditionals",
+Fri 9/4,"Chapter 8, Functions",
+Mon 9/7,"Chapter 9, Drawing with Functions / If statements",Quiz 2 @ 8 am
+Wed 9/9,If statements,
 Thu 9/10,Lab 3 - Drawing with Functions,Lab 2 @ 2:40 pm
-Fri 9/11,Repl.it 04 looping and problems,
+Fri 9/11,"Loops and random numbers, work on repl 03 conditionals",
+,Repl.it 04 looping and problems,
 Mon 9/14,Repl.it 05 advanced looping problems,Quiz 3 @ 8 am
 Wed 9/16,Introduction to lists,
 Thu 9/17,Lab 4 - Camel game,Lab 3 @ 2:40 pm
