@@ -90,6 +90,11 @@ to see what the question was.
 Voice/Video Channels
 --------------------
 
+.. note::
+
+  Some Macs requires you to give Discord permission to do screen streaming.
+  Click on the Apple menu, then Settings > Security and Privacy > Screen Recording > check discord
+
 Discord isn't limited to text. You can communicate by voice, video, and screen
 sharing. While you can run Discord in a browser, I've found these
 features to require the app to run reliably.
