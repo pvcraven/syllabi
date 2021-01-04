@@ -10,7 +10,15 @@ Schedule
 
 Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
 
-.. include:: ../elements/2019_sp_calendar.rst
+.. include:: ../elements/2021_sp_calendar.rst
+
+Class Calendar
+^^^^^^^^^^^^^^
+
+.. csv-table::
+   :file: cis-320-schedule.csv
+   :widths: 17 13 30 30 10
+   :header-rows: 1
 
 Student Assessment
 ------------------
@@ -21,26 +29,9 @@ Student Assessment
 
 .. include:: ../elements/standard_grading_scale.rst
 
-.. include:: ../elements/late_work_policy.rst
+.. include:: ../elements/late_work_allowed_policy.rst
 
 .. include:: ../elements/attendance_in_person.rst
-
-Assignments
-^^^^^^^^^^^
-
-* Lab 1: Programming Environment Setup Assignment
-* Lab 2: JavaScript Assignment
-* Lab 3: List DB Records in JSON Format Assignment
-* Lab 4: List Records - Final Assignment
-* Lab 5: Form Validation Assignment
-* Lab 6: Insert a Record Assignment
-* Lab 7: Security Writing
-* Lab 8: Back-End Validation and Deleting Records
-* Lab 9: Editing a record
-* Lab 10: Login Assignment
-* Lab 11: Final Lab
-
-There will also be quizzes.
 
 Course Assessment
 -----------------

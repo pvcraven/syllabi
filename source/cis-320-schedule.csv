@@ -1,0 +1,45 @@
+Date,Class,Topic,Assignment due,Points
+"Tue, Jan 19",1,"Syllabus, CRUD overview, stack overview",,
+"Thu, Jan 21",2,Local & production environment setups. Work on lab 1.,,
+"Tue, Jan 26",3,Get IntelliJ and Tomcat to work together. Work on JS tutorial,Assignment 1 - Full Stack Deployment,100
+"Thu, Jan 28",4,Work on jQuery and regular expression tutorials,,
+"Tue, Feb 02",5,"Talk about class paper, paper topic choices, annotated bibliography",,
+"Thu, Feb 04",6,Talk about JSON Work with setting up Amazon RDS,Assignment 2 - First JavaScript Assignment,100
+"Tue, Feb 09",7,Manage DB connections in Java. Work on lab 3.,,
+"Thu, Feb 11",8,Lab 3,"Research paper, annotated bibliography",100
+"Tue, Feb 16",9,"Making JSON calls over AJAX, work on Lab 4",Assignment 3 - List Records,100
+"Thu, Feb 18",10,"How to encode characters for the web, Work on Lab 4",,
+"Tue, Feb 23",11,,"Research paper, outline",100
+"Thu, Feb 25",12,"Modern build process, work on Lab 5 form validation",Assignment 4 - List Records - Final,100
+"Tue, Mar 02",13,Talk about check-boxes and file uploads. ,,
+"Thu, Mar 04",14,How to delete n-1 rows of a table in Javascript,"Research paper, rst setup",100
+"Tue, Mar 09",15,Talk about getting data from a form in code,Assignment 5 - Validate a Form,100
+"Thu, Mar 11",16,,,
+"Tue, Mar 16",17,,"Research paper, first page",100
+"Thu, Mar 18",18,How to do back-end validation. Work on Assignment 7,Assignment 6 - Insert a Record,100
+"Tue, Mar 23",19,Work on Assignment 7,,
+"Thu, Mar 25",20,Talk about passwords and password rules. Work on assignment 8,,
+"Tue, Mar 30",21,,Assignment 7 - Back-End Validate / Delete a Record,100
+"Thu, Apr 01",22,Work on assignment 8,,
+"Tue, Apr 06",23,Cookies and sessions,"Research paper, draft",100
+"Thu, Apr 08",24,"Local storage, work on login lab",Assignment 8 - Edit a Record,100
+"Tue, Apr 13",25,Work on login lab,,
+"Thu, Apr 15",26,,,
+"Tue, Apr 20",27,"Talk about encoding, citations, final paper",,
+"Thu, Apr 22",No class,Symposium day,"Research paper, final",100
+"Tue, Apr 27",No class,Final exam week,Assignment 9 - Login Lab,100
+,,,,
+,,,,
+,,,Total points,1000
+,,,,
+,,A,93%,930
+,,A-,90%,900
+,,B+,87%,870
+,,B,83%,830
+,,B-,80%,800
+,,C+,77%,770
+,,C,73%,730
+,,C-,70%,700
+,,D+,67%,670
+,,D,63%,630
+,,D-,60%,600

@@ -2,8 +2,13 @@ Instructor
 ----------
 
 * Instructor Name: Paul Vincent Craven
-* Instructor Office Hours: 3-4 pm on Monday and Tuesday, and 9-10 am
-  on Friday. In addition, I'm available via Discord from 7-8 pm on Wednesdays.
+* Because of covid this semester, office appointments are via zoom, and on-line.
+  Schedule a 15 minute
+  or 30 minute appointment via one of these links:
+
+  * https://calendly.com/paul-craven/15min
+  * https://calendly.com/paul-craven/30min
+
 * Instructor Contact Information:
 
   * E-mail: paul.craven@simpson.edu
