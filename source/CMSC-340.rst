@@ -10,12 +10,35 @@ Schedule
 
 Class meets Tuesday/Thursday from 9:40 am until 11:20 am.
 
-.. include:: ../elements/2019_sp_calendar.rst
+.. include:: ../elements/2021_sp_calendar.rst
+
+Class Calendar
+^^^^^^^^^^^^^^
+
+I plan on keeping to the due dates on the assignments. The exact topics of what
+we cover in class will be adjusted as needed.
+
+.. csv-table::
+   :file: cmsc-340-schedule.csv
+   :widths: 17 13 25 35 10
+   :header-rows: 1
 
 Student Assessment
 ------------------
 
-.. include:: ../elements/assignment_submission_git_and_server.rst
+Assignment Submission
+^^^^^^^^^^^^^^^^^^^^^
+
+There are six assignments. A student's grade for each assignment will depend
+on how many 'mini-projects' were completed.
+
+Each mini-project of an assignment must be checked off in-person or via video conference.
+You should then submit which steps were completed via Moodle, and the I will
+verify a match between my records and yours. If there is a discrepancy, I'll
+contact you to make sure you get the proper grade.
+
+Quizzes will be done on-line. Open book. You can ask other students and even
+the instructor.
 
 .. include:: ../elements/grading.rst
 
@@ -24,9 +47,6 @@ Student Assessment
 .. include:: ../elements/late_work_policy.rst
 
 .. include:: ../elements/attendance_in_person.rst
-
-Assignments
-^^^^^^^^^^^
 
 Course Assessment
 -----------------

@@ -1,0 +1,45 @@
+﻿Date,Class,Topic,Assignment Due,Points
+"Tue, Jan 19",1,Class intro,,
+"Thu, Jan 21",2,Layer 1,,
+"Tue, Jan 26",3,Layer 1,Quiz 1 due,15
+"Thu, Jan 28",4,Layer 1,,
+"Tue, Feb 02",5,Workday,Layer 1 - Physical - due,100
+"Thu, Feb 04",6,Layer 2,,
+"Tue, Feb 09",7,Layer 2,,
+"Thu, Feb 11",8,Layer 2,Quiz 2 due,15
+"Tue, Feb 16",9,Layer 2,,
+"Thu, Feb 18",10,Workday,Layer 2 - Data - due,100
+"Tue, Feb 23",11,Layer 3,,
+"Thu, Feb 25",12,Layer 3,,
+"Tue, Mar 02",13,Layer 3,Quiz 3 due,15
+"Thu, Mar 04",14,Layer 3,,
+"Tue, Mar 09",15,Workday,Layer 3 - Networking - due,100
+"Thu, Mar 11",16,Layer 4,,
+"Tue, Mar 16",17,Layer 4,,
+"Thu, Mar 18",18,Layer 4,Quiz 4 due,15
+"Tue, Mar 23",19,Layer 4,,
+"Thu, Mar 25",20,Workday,Layer 4 - Transport - due,100
+"Tue, Mar 30",21,Layer 5,,
+"Thu, Apr 01",22,Layer 5,,
+"Tue, Apr 06",23,Layer 5,Quiz 5 due,15
+"Thu, Apr 08",24,Layer 5,,
+"Tue, Apr 13",25,Workday,Layer 5 - Session - due,100
+"Thu, Apr 15",26,Layer 6,,
+"Tue, Apr 20",27,Layer 6,,
+"Thu, Apr 22",No class,Symposium day,,15
+"Tue, Apr 27",No class,Final exam week,Quiz 6 due,
+"Thu, Apr 29",No class,Final exam week,Layer 6 - Presentation - due,100
+,,,,
+,,,Grading,
+,,,Total points,690
+,A,,93%,642
+,A-,,90%,621
+,B+,,87%,601
+,B,,83%,573
+,B-,,80%,552
+,C+,,77%,532
+,C,,73%,504
+,C-,,70%,483
+,D+,,67%,463
+,D,,63%,435
+,D-,,60%,414

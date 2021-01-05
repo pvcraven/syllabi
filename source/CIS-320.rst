@@ -15,6 +15,9 @@ Class meets Tuesday/Thursday from 8:00 am until 9:30 am.
 Class Calendar
 ^^^^^^^^^^^^^^
 
+I plan on keeping to the due dates on the assignments. The exact topics of what
+we cover in class will be adjusted as needed.
+
 .. csv-table::
    :file: cis-320-schedule.csv
    :widths: 17 13 30 30 10
