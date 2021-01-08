@@ -10,7 +10,7 @@ Schedule
 
 There is no formal meeting time for CIS 385. Class is conducted on-line.
 
-.. include:: ../elements/2017_sx_calendar.rst
+.. include:: ../elements/2021_sp_calendar.rst
 
 Student Assessment
 ------------------
@@ -28,17 +28,21 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-* Monday, Jun 04 at 8:00 am: Assignment 1 - Zukei Puzzle
-* Monday, Jun 12 at 8:00 am: Assignment 2 - Node.js Report to Management
-* Monday, Jun 19 at 8:00 am: Assignment 3 - Node.js Proof-of-Concept
-* Monday, Jun 26 at 8:00 am: Assignment 4 - Node.js Tutorial/Technical Report
-* Monday, Jul 03 at 8:00 am: Assignment 5 - Database Diagramming
-* Monday, Jul 10 at 8:00 am: Assignment 6 - Cloud Services Part 1
-* Monday, Jul 17 at 8:00 am: Assignment 7 - Cloud Services Part 2
-* Monday, Jul 24 at 8:00 am: Assignment 8 - Data Structures 1
-* Monday, Jul 31 at 8:00 am: Assignment 9 - Data Structures 2
-* Monday, Aug 07 at 8:00 am: Assignment 10 - Final Project Draft
-* Monday, Aug 14 at 8:00 am: Assignment 11 - Final Project
+* Monday, 1/18 at 8 am: Report 1
+* Monday, 1/25 at 8 am: Report 2
+* Monday, 2/1 at 8 am: Report 3
+* Monday, 2/8 at 8 am: Report 4
+* Monday, 2/15 at 8 am: Report 5
+* Monday, 2/22 at 8 am: Report 6
+* Monday, 3/1 at 8 am: Report 7
+* Monday, 3/8 at 8 am: Report 8
+* Monday, 3/15 at 8 am: Report 9
+* Monday, 3/22 at 8 am: Report 10
+* Monday, 3/29 at 8 am: Report 11
+* Monday, 4/5 at 8 am: Report 12
+* Monday, 4/12 at 8 am: Report 13
+* Monday, 4/19 at 8 am: Report 14
+* Monday, 4/26 at 8 am: Report 15
 
 Course Assessment
 -----------------
