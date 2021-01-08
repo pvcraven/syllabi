@@ -10,6 +10,7 @@ Spring 2021  Classes
 
    CIS-320
    CMSC-340
+   CIS-386
    CIS-385
 
 Important info:
@@ -31,7 +32,6 @@ Older Classes:
    CMSC-386
    CIS-160
    CMSC-385
-   CIS-386
    CMSC-390IA
    CIS-390AG
 
