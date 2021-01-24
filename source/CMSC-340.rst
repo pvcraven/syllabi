@@ -20,7 +20,7 @@ we cover in class will be adjusted as needed.
 
 .. csv-table::
    :file: cmsc-340-schedule.csv
-   :widths: 17 13 25 35 10
+   :widths: 17 13 35 25 10
    :header-rows: 1
 
 Student Assessment

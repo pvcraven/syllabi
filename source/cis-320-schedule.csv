@@ -1,8 +1,8 @@
-Date,Class,Topic,Assignment due,Points
+﻿Date,Class,Topic,Assignment due,Points
 "Tue, Jan 19",1,"Syllabus, CRUD overview, stack overview",,
-"Thu, Jan 21",2,Local & production environment setups. Work on lab 1.,,
-"Tue, Jan 26",3,Get IntelliJ and Tomcat to work together. Work on JS tutorial,Assignment 1 - Full Stack Deployment,100
-"Thu, Jan 28",4,Work on jQuery and regular expression tutorials,,
+"Thu, Jan 21",2,Local & production environment setups. Show IntelliJ and Tomcat working. Demo how to do Lab 1.,,
+"Tue, Jan 26",3,Go through JavaScript chapter,Assignment 1 - Full Stack Deployment,100
+"Thu, Jan 28",4,Go through jQuery chapter. Go through regular expression tutorial.,,
 "Tue, Feb 02",5,"Talk about class paper, paper topic choices, annotated bibliography",,
 "Thu, Feb 04",6,Talk about JSON Work with setting up Amazon RDS,Assignment 2 - First JavaScript Assignment,100
 "Tue, Feb 09",7,Manage DB connections in Java. Work on lab 3.,,
