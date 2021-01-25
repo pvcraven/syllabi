@@ -21,15 +21,16 @@ If you want to calculate your grade, total up your points, divide by the total p
 Then take into account any attendance policy penalty.
 See the `attendance policy <#attendance-participation-policy>`_.
 
-**Appealing your final grade:** If you believe your final grade is in error,
-please go through the effort of calculating your grade yourself.
-Total up your points earned and the total points possible for the class.
-Calculate the percentage. Check your attendance. Include that information
-when contacting the instructor.
-
 **Appealing an assignment grade:** Please do this within a week or two of the
 grade being posted. Please regularly check for missing assignment grades.
 After final grades are posted, I'll only re-examine assignments
 turned in during finals. I'm not going back a to look at early
 assignments. Turning in tech assignments can be more complex than turning in
 a paper, so it is critical to notice right away if you are missing a piece.
+
+**Appealing your final grade:** If you believe your final grade is in error,
+please go through the effort of calculating your grade yourself.
+Total up your points earned and the total points possible for the class.
+Calculate the percentage. Check your attendance. Include that information
+when contacting the instructor.
+
