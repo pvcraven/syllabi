@@ -29,8 +29,8 @@ assignments. Turning in tech assignments can be more complex than turning in
 a paper, so it is critical to notice right away if you are missing a piece.
 
 **Appealing your final grade:** If you believe your final grade is in error,
-please go through the effort of calculating your grade yourself.
-Total up your points earned and the total points possible for the class.
+please go through the effort of calculating the grade yourself.
+Total up points earned and the total points possible.
 Calculate the percentage. Check your attendance. Include that information
 when contacting the instructor.
 
