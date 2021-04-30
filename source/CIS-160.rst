@@ -8,9 +8,9 @@ CIS 160: Intro to the Creation of 3-D Movies and Graphics
 Schedule
 --------
 
-Class meets every weekday from 8:30 am until 11:15 am, Monday May 1st to Friday May 19, 2017
+Class meets every weekday from 8:30 am until 11:15 am, Monday May 3rd to Friday May 21, 2017
 
-Class meetings:
+Approximate schedule:
 
 * Day 01 - Introduction and Blender Basics
 * Day 02 - Meshes
@@ -31,9 +31,9 @@ Class meetings:
 Assignments:
 
 * Assignment 1 - How Did The Artist Convey The Message?
-* Assignment 2 - Mesh Modeling
+* Assignment 2 - Primitive Modeling
 * Assignment 3 - Back-Story
-* Assignment 4 - Shading
+* Assignment 4 - Animated Rocket
 * Assignment 5 - Modifiers
 * Assignment 6 - Final Project Plan
 * Assignment 7 - Animation
