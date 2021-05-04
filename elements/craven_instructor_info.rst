@@ -2,7 +2,7 @@ Instructor
 ----------
 
 * Instructor Name: Paul Vincent Craven
-* Office appointments are by appointment.
+* Office hours are by appointment.
 
   * In person, in McNeill 110
 
