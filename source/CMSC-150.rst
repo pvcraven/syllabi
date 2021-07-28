@@ -11,6 +11,8 @@ Schedule
 Class meets MWF from 11:30 am until 12:30 pm and it also has a lab
 Thursday 2:10 pm until 3:40 pm.
 
+Final is Mon., Dec. 13, 1:00pm - 3:00pm
+
 .. include:: ../elements/2020_fa_calendar.rst
 
 .. _class_calendar:
