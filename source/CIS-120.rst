@@ -36,11 +36,11 @@ Schedule
 
 Class meets Tuesday and Thursday from 9:40 am until 11:10 am.
 
-Final is Tues., Dec. 14, 8:00am - 10:00am
+Final is Tues., Dec. 14, 2021, 8:00am - 10:00am
 
-.. include:: ../elements/2020_fa_calendar.rst
+.. include:: ../elements/2021_fa_calendar.rst
 
-For a full schedule, see:
+For a day-by-dayfull schedule, see:
 https://web-development-class.readthedocs.io/en/latest/semester_1/schedule.html
 
 
@@ -71,7 +71,7 @@ assignments and quizzes will be:
 * Assignment 4 - Bootstrap
 * Assignment 5 - Project Finalization
 * Assignment 6 - AWS assignment
-* Assignment 7 - Using PHP "include"
+* Assignment 7 - Using PHP "include" (We might skip this assignment)
 * Assignment 8 - DNS and Web Site Performance
 * Assignment 9 - WordPress Install
 * Assignment 10 - WordPress

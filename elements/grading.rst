@@ -5,11 +5,10 @@ Grades will be calculated on a percent scale. The percentage is calculated by
 total points earned, divided by total points possible. If there is an attendance
 penalty, then that is subtracted next.
 
-.. danger:: Sometimes Simpson's Scholar site shows the wrong grade.
-    If it does this, it will show your total class
-    score to be too high.
+.. danger:: Simpson's Scholar/Moodle site shows can show the wrong grade,
+    for the two reasons below.
 
-* Scholar will not show your attendance penalty, if that applies. You can look
+* Scholar will not show any attendance penalty. You can look
   up your attendance on Scholar.
 * If there is a missing grade that hasn't been set at zero, then Scholar will
   not show that in the average. For example, if there are 10 assignments, each

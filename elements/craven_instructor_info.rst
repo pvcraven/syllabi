@@ -4,7 +4,7 @@ Instructor
 * Instructor Name: Paul Vincent Craven
 * Office hours are by appointment.
 
-  * In person, in McNeill 110
+  * In person. My office is in the Carver Science building, second floor. Room 333:
 
       * https://calendly.com/paul-craven/in-person-15-minute-meeting
       * https://calendly.com/paul-craven/in-person-30-minute-meeting

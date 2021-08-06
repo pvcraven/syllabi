@@ -3,6 +3,14 @@
 Paul Craven Syllabi
 ===================
 
+Fall 2021 Classes
+
+.. toctree::
+   :maxdepth: 1
+
+   CIS-120
+   CMSC-150
+
 May 2021 Classes
 
 .. toctree::
@@ -34,8 +42,6 @@ Older Classes:
    :maxdepth: 1
 
    SC-101
-   CIS-120
-   CMSC-150
    CMSC-386
    CMSC-385
    CMSC-390IA

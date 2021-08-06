@@ -13,7 +13,7 @@ Thursday 2:10 pm until 3:40 pm.
 
 Final is Mon., Dec. 13, 1:00pm - 3:00pm
 
-.. include:: ../elements/2020_fa_calendar.rst
+.. include:: ../elements/2021_fa_calendar.rst
 
 .. _class_calendar:
 
@@ -46,7 +46,7 @@ There are three types of assignments:
 
 * Labs - 20 points, except the final lab which is 60 points
 * Quizzes - 10 points
-* On-line repl.it coding problems, 2 pts each
+* Coding problems, 2 pts each
 
 .. note:: Labs can be resubmitted once for more points.
 
