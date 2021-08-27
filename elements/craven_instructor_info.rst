@@ -11,8 +11,8 @@ Instructor
 
   * Over Zoom
 
-      * https://calendly.com/paul-craven/15min
-      * https://calendly.com/paul-craven/30min
+      * https://calendly.com/paul-craven/zoom-15-minute-meeting
+      * https://calendly.com/paul-craven/zoom-30-minute-meeting
 
 * Instructor Contact Information:
 

@@ -4,3 +4,4 @@ sublime.sublime-project
 sublime.sublime-workspace
 .idea/
 venv-linked/
+venv/
