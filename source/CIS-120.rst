@@ -62,7 +62,7 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-Assignments are usually worth 10 points, and quizzes worth 5 points. The
+Assignments are usually worth 100 points, and quizzes worth 50 points. The
 assignments and quizzes will be:
 
 * Assignment 1 - Basic HTML
