@@ -13,22 +13,22 @@ Course Details
 
 * Course level student learning objectives (SLOs):
 
-	* Variables and expressions
-	* Branching logic
-	* Simple looping
-	* Complex nested looping
-	* Graphical coordinate system
-	* Simple version control system use
-	* Basic theory behind how computer languages work
-	* Linear and binary search
-	* Arrays
-	* Two-dimensional arrays
-	* Exceptions
-	* Print formatting
-	* Classes
-	* Insertion and selection sort
-	* Proper coding style and techniques
-	* Debugging techniques
-	* Using and creating libraries
+    * Variables and expressions
+    * Branching logic
+    * Simple looping
+    * Complex nested looping
+    * Graphical coordinate system
+    * Simple version control system use
+    * Basic theory behind how computer languages work
+    * Linear and binary search
+    * Arrays
+    * Two-dimensional arrays
+    * Exceptions
+    * Print formatting
+    * Classes
+    * Insertion and selection sort
+    * Proper coding style and techniques
+    * Debugging techniques
+    * Using and creating libraries
 
 * Textbook: https://learn.arcade.academy
