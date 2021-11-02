@@ -1,4 +1,4 @@
-﻿Date,Class Activity,Due
+Date,Class Activity,Due
 Wed 9/1,Syllabus,
 ,"Chapter 1, Why learn programming?",
 ,"Chapter 2, Understanding and setting up your system",
@@ -41,18 +41,18 @@ Wed 10/27,Shooting sprites examples / Sprites and walls / placement and collisio
 Thu 10/28,Lab 8 - Sprites,Lab 7 @ 2:40 pm
 Fri 10/29,Sprites and walls / scrolling,
 Mon 11/1,Libraries and modules,
-Wed 11/3,Binary search,
+Wed 11/3,Searching - reading from a file and linear search,
 Thu 11/4,Lab 9 - Sprites and walls,Lab 8 @ 2:40 pm
-Fri 11/5,Work on programming problems,
-Mon 11/8,Array-backed grids part 1,
-Wed 11/10,Array-backed grids part 2,Quiz 9 @ 8 am
+Fri 11/5,Binary search,
+Mon 11/8,Work on programming problems,
+Wed 11/10,Array-backed grids part 1,Quiz 9 @ 8 am
 Thu 11/11,Lab 10 - Spell check,Lab 9 @ 2:40 pm
-Fri 11/12,Platformers,
+Fri 11/12,Array-backed grids part 2,
 Mon 11/15,Platformers,
 Wed 11/17,No class,Quiz 10 @ 8 am
 Thu 11/18,Lab 11 - Array-backed grids,Lab 10 @ 2:40 pm
-Fri 11/19,Swapping values and the selection sort,
-Mon 11/22,,
+Fri 11/19,Platformers,
+Mon 11/22,Swapping values and the selection sort,
 Wed 11/24,Thanksgiving Break,
 Thu 11/25,Thanksgiving Break,Demo part 2
 Fri 11/26,Thanksgiving Break,"Lab 11 @ 2:40 pm, Sorting worksheet, Demo part 1"
