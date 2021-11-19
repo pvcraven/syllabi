@@ -1,4 +1,4 @@
-Date,Class Activity,Due
+﻿Date,Class Activity,Due
 Wed 9/1,Syllabus,
 ,"Chapter 1, Why learn programming?",
 ,"Chapter 2, Understanding and setting up your system",
@@ -49,18 +49,18 @@ Wed 11/10,Array-backed grids part 1,Quiz 9 @ 8 am
 Thu 11/11,Lab 10 - Spell check,Lab 9 @ 2:40 pm
 Fri 11/12,Array-backed grids part 2,
 Mon 11/15,Platformers,
-Wed 11/17,No class,Quiz 10 @ 8 am
+Wed 11/17,No class,
 Thu 11/18,Lab 11 - Array-backed grids,Lab 10 @ 2:40 pm
-Fri 11/19,Platformers,
-Mon 11/22,Swapping values and the selection sort,
+Fri 11/19,Swapping values and the selection sort,
+Mon 11/22,Insertion sort,
 Wed 11/24,Thanksgiving Break,
-Thu 11/25,Thanksgiving Break,Demo part 2
-Fri 11/26,Thanksgiving Break,"Lab 11 @ 2:40 pm, Sorting worksheet, Demo part 1"
-Mon 11/29,Sorting Worksheet,
-Wed 12/1,Quantitative Reasoning Assignment,Insertion sort / Explain final lab
-Thu 12/2,"Lab 12 - Final lab, part 1",
+Thu 11/25,Thanksgiving Break,
+Fri 11/26,Thanksgiving Break,
+Mon 11/29,Sorting Worksheet / Lab,
+Wed 12/1,Quantitative Reasoning Assignment / Lab,Quiz 10 @ 8 am
+Thu 12/2,Work on Lab 12 - Final lab,"Lab 11 @ 2:40 pm, Sorting worksheet, Demo part 1"
 Fri 12/3,Print formatting / Exceptions,
 Mon 12/6,Work on final lab,
 Wed 12/8,Recursion / Work on final lab,
-Thu 12/9,"Lab 12 - Final lab, part 3",
-12/13 1 pm - 3 pm,"Final time, show off projects",
+Thu 12/9,Work on Lab 12 - Final lab,
+12/13 1 pm - 3 pm,"Final time, show off projects",Lab 12 & absolutely everything by 3 pm.
