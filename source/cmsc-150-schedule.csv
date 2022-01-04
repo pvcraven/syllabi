@@ -3,10 +3,13 @@ Wed 9/1,Syllabus,
 ,"Chapter 1, Why learn programming?",
 ,"Chapter 2, Understanding and setting up your system",
 Thu 9/2,"Chapter 3, Version control systems","Have PyCharm, Python, and Git installed"
-,"Chapter 4, The 'print' function",
-Fri 9/3,Lab 1 - Print statements and version control systems,
+,"Chapter 4, The print function",
+,Lab 1 - Print statements and version control systems,
+Fri 9/3,"On-line coding problems. Finish lab 1, work with any resubmits.",
 Mon 9/6,"Chapter 5, Drawing with Python",
-Wed 9/8,"Chapter 5 continued, Chapter 6 what is a programming language",Quiz 1 @ 8 am
+Wed 9/8,"Review Chapter 5, show API docs",Quiz 1 @ 8 am
+,Chapter 6 what is a programming language,
+,Introduce Lab 2,
 Thu 9/9,Lab 2 - Drawing,Lab 1 @ 2:40 pm
 Fri 9/10,"Chapter 7, Variables and Expressions",
 Mon 9/13,"Chapter 8, Functions",
@@ -21,7 +24,7 @@ Mon 9/27,Looping problems,
 Wed 9/29,"Chapter 14, Advanced looping problems",Quiz 4 @ 8 am
 Thu 9/30,Lab 5 - Loopy lab,Lab 4 @ 2:40 pm
 Fri 10/1,"Chapter 15, Introduction to lists",
-Mon 10/4,List problems,
+Mon 10/4,"Chapter 15, Introduction to lists (continued)",
 Wed 10/6,"Chapter 16, Classes",Quiz 5 @ 8 am
 Thu 10/7,Lab 6 - Text adventure,Lab 5 @ 2:40 pm
 Fri 10/8,"Chapter 17, Class methods",
@@ -30,34 +33,34 @@ Wed 10/13,"Chapter 19, User control","Quiz 6 @ 8 am, Lab 6 @ 2:40 pm"
 Thu 10/14,Fall Break,
 Fri 10/15,Fall Break,
 Mon 10/18,Work on programming problems,
-Wed 10/20,"Chapter 20, Sound effects",Quiz 7 @ 8 am
+Wed 10/20,Sound effects / Sprites and collisions,Quiz 7 @ 8 am
 Thu 10/21,Lab 7 User Control,
-Fri 10/22,"Chapter 21, Sprites and collisions",
-Mon 10/25,"Chapter 22, Moving sprites, Chapter 23, debugging",
-Wed 10/27,"Chapter 24, Shooting sprites examples",Quiz 8 @ 8 am
+Fri 10/22,Sprites and collisions / Moving sprites,
+Mon 10/25,Continue moving sprites / Debugging,
+Wed 10/27,Shooting sprites examples / Sprites and walls / placement and collision,Quiz 8 @ 8 am
 Thu 10/28,Lab 8 - Sprites,Lab 7 @ 2:40 pm
-Fri 10/29,"Chapter 25, Sprites and walls",
-Mon 11/1,"Chapter 25, Sprites and walls",
-Wed 11/3,"Chapter 26, Libraries and modules",
+Fri 10/29,Sprites and walls / scrolling,
+Mon 11/1,Libraries and modules,
+Wed 11/3,Searching - reading from a file and linear search,
 Thu 11/4,Lab 9 - Sprites and walls,Lab 8 @ 2:40 pm
-Fri 11/5,"Chapter 27, Searching - Linear search",
-Mon 11/8,"Chapter 27, Searching - Binary search",
-Wed 11/10,"Chapter 28, Array-backed grids part 1",Quiz 9 @ 8 am
+Fri 11/5,Binary search,
+Mon 11/8,Work on programming problems,
+Wed 11/10,Array-backed grids part 1,Quiz 9 @ 8 am
 Thu 11/11,Lab 10 - Spell check,Lab 9 @ 2:40 pm
-Fri 11/12,"Chapter 28, Array-backed grids part 2",
-Mon 11/15,"Chapter 29, Platformers tutorial part 1",
-Wed 11/17,"Chapter 29, Platformers tutorial part 2",Quiz 10 @ 8 am
+Fri 11/12,Array-backed grids part 2,
+Mon 11/15,Platformers,
+Wed 11/17,No class,
 Thu 11/18,Lab 11 - Array-backed grids,Lab 10 @ 2:40 pm
-Fri 11/19,"Chapter 30, sorting part 1",
-Mon 11/22,"Chapter 30, sorting part 2",
+Fri 11/19,Swapping values and the selection sort,
+Mon 11/22,Insertion sort,
 Wed 11/24,Thanksgiving Break,
 Thu 11/25,Thanksgiving Break,
 Fri 11/26,Thanksgiving Break,
-Mon 11/29,Sorting Worksheet,
-Wed 12/1,"Chapter 31, Exceptions, Quantitative Reasoning Assignment",
-Thu 12/2,"Lab 12 - Final lab, part 1","Lab 11 @ 2:40 pm, Sorting worksheet, Demo part 1"
-Fri 12/3,"Chapter 32, String formatting",
+Mon 11/29,Sorting Worksheet / Lab,
+Wed 12/1,Quantitative Reasoning Assignment / Lab,Quiz 10 @ 8 am
+Thu 12/2,Work on Lab 12 - Final lab,"Lab 11 @ 2:40 pm, Sorting worksheet, Demo part 1"
+Fri 12/3,Print formatting / Exceptions,
 Mon 12/6,Work on final lab,
-Wed 12/8,"Chapter 33, Recursion",
-Thu 12/9,"Lab 12 - Final lab, part 3",
-12/13 1 pm - 3 pm,"Final time, show off final projects",
+Wed 12/8,Recursion / Work on final lab,
+Thu 12/9,Work on Lab 12 - Final lab,
+12/13 1 pm - 3 pm,"Final time, show off projects",Lab 12 & absolutely everything by 3 pm.
