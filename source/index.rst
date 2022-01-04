@@ -3,6 +3,16 @@
 Paul Craven Syllabi
 ===================
 
+Spring 2022 Classes
+
+.. toctree::
+   :maxdepth: 1
+
+   CIS-390AG
+   CMSC-390IA
+   CIS-386
+   CIS-385
+
 Fall 2021 Classes
 
 .. toctree::
@@ -17,16 +27,6 @@ May 2021 Classes
    :maxdepth: 1
 
    CIS-160
-
-Spring 2021  Classes
-
-.. toctree::
-   :maxdepth: 1
-
-   CIS-320
-   CMSC-340
-   CIS-386
-   CIS-385
 
 Important info:
 
@@ -46,4 +46,8 @@ Older Classes:
    CMSC-385
    CMSC-390IA
    CIS-390AG
+   CIS-320
+   CMSC-340
+   CIS-386
+   CIS-385
 

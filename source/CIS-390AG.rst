@@ -8,11 +8,14 @@ CIS 390AG - Advanced Gaming
 Schedule
 --------
 
-Class meets Tuesday/Thursday from 11:20 am until 12:50 pm.
+Class meets Tuesday/Thursday from 9:40 am until 11:10 pm.
 
-.. include:: ../elements/2019_fa_calendar.rst
+Our final time is Wed, April 27 from 8:00 am until 10:00 am.
 
-The first 1/3 to 1/2 of the class will be on building skills. The last half will be working in one or more teams
+.. include:: ../elements/2022_sp_calendar.rst
+
+The first 1/3 to 1/2 of the class will be on building skills. The last half will be working in
+one or more teams
 on a cooperative project using the Agile methodology.
 
 To begin with, we will cover the following topics, and have an assignment for each one:
