@@ -30,10 +30,10 @@ Assignments
 
 We will be following the textbook for assignments.
 
-* For each chapter there will be an on-line quiz.
-* For each lab, there will be a lab report worth 10 points.
-* After each lab, there will be an on-line lab assessment worth 10 points.
-* The final will be a book report, worth 40 points.
+* For each chapter there will be an on-line quiz worth 100 points.
+* For each lab, there will be a lab report worth 100 points.
+* After each lab, there will be an on-line lab assessment worth 100 points.
+* The final will be a book report, worth 400 points.
 
 Course Assessment
 -----------------
