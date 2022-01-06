@@ -17,8 +17,5 @@ you off as excused.
   hurt a student's grade. If a student leaving class early with prior
   permission will be counted as absent.
 
-**COVID-19 Update:** Because of COVID-19 you may need to attend via Zoom.
-You'll still be counted as attending if you need to attend via Zoom. Because
-it is easy to fall asleep during Zoom meetings, there may be polls during class
-to keep people engaged. If so, you'll need to answer these polls to be counted
-as attending.
+**COVID-19:** Absences due to Covid-19 are excused, but you need to let me know, along with
+health services.
