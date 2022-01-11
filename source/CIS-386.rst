@@ -28,6 +28,10 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
+For consistency, everything is marked due on Monday. However for MLK day,
+Easter, and College Reading day you can turn it in the following Tuesday if
+desired. No report due Spring Break (March 14)
+
 * Monday, 1/17 at 8 am: Report 1
 * Monday, 1/24 at 8 am: Report 2
 * Monday, 1/31 at 8 am: Report 3
