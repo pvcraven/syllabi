@@ -15,20 +15,24 @@ Our final time is Wed, April 27 from 8:00 am until 10:00 am.
 .. include:: ../elements/2022_sp_calendar.rst
 
 The first 1/3 to 1/2 of the class will be on building skills. The last half will be working in
-one or more teams
-on a cooperative project using the Agile methodology.
+one or more teams on a cooperative project using the Agile methodology.
 
-To begin with, we will cover the following topics, and have an assignment for each one:
+Assignments will likely be:
 
-* Initial tutorial on Blender
-* Initial Unity concepts
-* Basic C#
-* Unity Roll-a-ball
-* Learning to move assets from Blender to Unity
-* Using Git with Unity, managing forks, branches and pull requests
-* Agile methodology
+#. C# Camel
+#. Simple Blender Modeling
+#. Unity 3D Assignment - Part 1
+#. Unity 3D Assignment - Part 2
+#. Unity 3D Game (Group Project) - Part 1
+#. Unity 3D Game (Group Project) - Part 2
+#. Unity 3D Game (Group Project) - Part 3
+#. How to create 2D art
+#. Unity 2D Assignment - Part 1
+#. Unity 2D Assignment - Part 2
+#. Unity 2D Game (Group Project) - Part 1
+#. Unity 2D Game (Group Project) - Part 2
+#. Unity 2D Game (Group Project) - Part 3
 
-After that we will introduce the final project and move into "sprints" where we will grade work on a weekly basis.
 
 Student Assessment
 ------------------
