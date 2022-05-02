@@ -39,7 +39,6 @@ Assignments:
 * Assignment 6 - Final Project Plan
 * Assignment 7 - Animation
 * Assignment 8 - What is Art?
-* Assignment 9 - Lumi
 * Final Project
 
 Student Assessment
@@ -56,9 +55,9 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-There will be nine assignments, plus a final project. Each assignment is worth
+There will be eight assignments, plus a final project. Each assignment is worth
 ten points, for a total of ninety points. The final assignment is worth one
-hundred points. The class will be graded out of 190 points total.
+hundred points. The class will be graded out of 180 points total.
 
 
 Course Assessment

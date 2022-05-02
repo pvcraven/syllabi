@@ -23,7 +23,7 @@ See the `attendance policy <#attendance-participation-policy>`_.
 **Appealing an assignment grade:** Please do this within a week or two of the
 grade being posted. Please regularly check for missing assignment grades.
 After final grades are posted, I'll only re-examine assignments
-turned in during finals. I'm not going back a to look at early
+turned in during finals. I'm not going back to look at early
 assignments. Turning in tech assignments can be more complex than turning in
 a paper, so it is critical to notice right away if you are missing a piece.
 
