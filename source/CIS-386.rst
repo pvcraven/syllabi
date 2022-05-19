@@ -10,7 +10,7 @@ Schedule
 
 There is no formal meeting time for CIS 386. Class is conducted on-line.
 
-.. include:: ../elements/2022_sp_calendar.rst
+.. include:: ../elements/2022_sx_calendar.rst
 
 Student Assessment
 ------------------
@@ -28,25 +28,20 @@ Student Assessment
 Assignments
 ^^^^^^^^^^^
 
-For consistency, everything is marked due on Monday. However for MLK day,
-Easter, and College Reading day you can turn it in the following Tuesday if
-desired. No report due Spring Break (March 14)
+For consistency, everything is marked due on Monday except the last report, as classes officially end 8/14.
 
-* Monday, 1/17 at 8 am: Report 1
-* Monday, 1/24 at 8 am: Report 2
-* Monday, 1/31 at 8 am: Report 3
-* Monday, 2/7 at 8 am: Report 4
-* Monday, 2/14 at 8 am: Report 5
-* Monday, 2/21 at 8 am: Report 6
-* Monday, 2/28 at 8 am: Report 7
-* Monday, 3/7 at 8 am: Report 8
-* Spring Break
-* Monday, 3/21 at 8 am: Report 9
-* Monday, 3/28 at 8 am: Report 10
-* Monday, 4/4 at 8 am: Report 11
-* Monday, 4/11 at 8 am: Report 12
-* Monday, 4/18 at 8 am: Report 13
-* Monday, 4/25 at 8 am: Report 14
+* Monday, May 30, 2022	at 8 am	Report 1
+* Monday, June 6, 2022	at 8 am	Report 2
+* Monday, June 13, 2022	at 8 am	Report 3
+* Monday, June 20, 2022	at 8 am	Report 4
+* Monday, June 27, 2022	at 8 am	Report 5
+* Monday, July 4, 2022	at 8 am	Report 6
+* Monday, July 11, 2022	at 8 am	Report 7
+* Monday, July 18, 2022	at 8 am	Report 8
+* Monday, July 25, 2022	at 8 am	Report 9
+* Monday, August 1, 2022	at 8 am	Report 10
+* Monday, August 8, 2022	at 8 am	Report 11
+* Sunday, August 14, 2022	at 8 am	Report 12
 
 Course Assessment
 -----------------
