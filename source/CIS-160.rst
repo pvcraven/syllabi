@@ -31,15 +31,15 @@ Approximate schedule:
 
 Assignments:
 
-* Assignment 1 - How Did The Artist Convey The Message?
-* Assignment 2 - Primitive Modeling
-* Assignment 3 - Back-Story
-* Assignment 4 - Animated Rocket
-* Assignment 5 - Modifiers
-* Assignment 6 - Final Project Plan
-* Assignment 7 - Animation
-* Assignment 8 - What is Art?
-* Final Project
+* Assignment 1 - How Did The Artist Convey The Message? (10 pts)
+* Assignment 2 - Primitive Modeling (10 pts)
+* Assignment 3 - Back-Story (10 pts)
+* Assignment 4 - Animated Rocket (10 pts)
+* Assignment 5 - Modifiers (10 pts)
+* Assignment 6 - Final Project Plan (10 pts)
+* Assignment 7 - Animation (10 pts)
+* Assignment 8 - What is Art? (10 pts)
+* Final Project (100 pts)
 
 Student Assessment
 ------------------
